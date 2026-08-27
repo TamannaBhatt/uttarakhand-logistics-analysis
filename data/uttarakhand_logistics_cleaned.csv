@@ -1,0 +1,1001 @@
+shipment_id,origin_district,destination_district,origin_terrain,destination_terrain,distance_km,shipping_mode,shipment_volume_units,inventory_level_units,demand_units,warehouse_processing_days,weather_delay,traffic_delay,road_condition,carrier_rating,scheduled_delivery_days,actual_delivery_days,transportation_cost_inr,late_delivery
+UKL10001,Almora,Rudraprayag,Mid-Hill,High-Hill,215.1,Standard,5,46.8,59.7,0.77,0,0,Good,3.13,4.5,5.42,748.57,1
+UKL10002,Pauri Garhwal,Tehri Garhwal,Mid-Hill,Mid-Hill,308.9,First Class,5,79.9,36.4,1.03,0,0,Poor,4.46,2.8,4.13,1214.63,1
+UKL10003,Pithoragarh,Bageshwar,High-Hill,Mid-Hill,593.1000000000001,Second Class,5,92.1,103.8,0.9,0,1,Good,4.38,3.8,5.33,997.77,1
+UKL10004,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,349.2,First Class,8,33.5,81.6,0.79,0,0,Moderate,3.76,2.8,3.73,1322.43,1
+UKL10005,Chamoli,Champawat,High-Hill,Mid-Hill,383.6,Second Class,8,104.7,72.1,1.01,0,0,Poor,4.115,3.8,6.56,1288.94,1
+UKL10006,Chamoli,Haridwar,High-Hill,Plain/Lower Hill,336.7,Second Class,12,104.1,74.3,1.33,0,1,Moderate,3.9,3.8,6.41,1231.35,1
+UKL10007,Uttarkashi,Pauri Garhwal,High-Hill,Mid-Hill,329.8,First Class,6,73.2,79.7,1.32,0,0,Good,4.41,2.8,3.95,1162.7,1
+UKL10008,Nainital,Uttarkashi,Mid-Hill,High-Hill,518.6,Same Day,9,29.9,100.4,1.65,1,1,Moderate,3.89,1.2,4.3,1761.4125,1
+UKL10009,Rudraprayag,Champawat,High-Hill,Mid-Hill,218.2,Standard,13,53.3,105.3,1.51,1,0,Good,4.33,4.5,6.53,1033.41,1
+UKL10010,Rudraprayag,Pauri Garhwal,High-Hill,Mid-Hill,350.0,Standard,6,85.1,60.1,1.28,0,1,Moderate,3.66,4.5,6.89,1160.9,1
+UKL10011,Almora,Haridwar,Mid-Hill,Plain/Lower Hill,409.7,Second Class,6,116.6,88.8,1.06,0,0,Moderate,4.73,3.8,5.63,1371.5,1
+UKL10012,Dehradun,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,293.1,Same Day,14,77.9,99.7,1.19,0,0,Good,2.93,1.2,2.12,1461.91,1
+UKL10013,Haridwar,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,157.1,Second Class,5,78.5,96.8,1.8,0,0,Moderate,3.61,3.8,5.85,894.46,1
+UKL10014,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,156.6,First Class,12,85.0,76.3,1.08,0,0,Moderate,4.66,2.8,5.1,964.5,1
+UKL10015,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,233.5,Second Class,11,93.6,71.8,1.24,0,0,Good,4.35,3.8,5.43,1023.8,1
+UKL10016,Bageshwar,Uttarkashi,Mid-Hill,High-Hill,461.8,Same Day,9,55.3,103.4,0.74,0,0,Good,4.85,1.2,3.04,1673.42,1
+UKL10017,Dehradun,Nainital,Plain/Lower Hill,Mid-Hill,287.7,Standard,8,72.3,37.5,1.08,0,0,Moderate,4.22,4.5,5.91,991.09,1
+UKL10018,Udham Singh Nagar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,212.2,First Class,10,121.7,84.2,1.58,0,0,Poor,4.35,2.8,4.04,1131.61,1
+UKL10019,Udham Singh Nagar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,331.4,Same Day,8,102.1,96.8,0.79,0,0,Good,4.47,1.2,2.52,1333.13,1
+UKL10020,Almora,Rudraprayag,Mid-Hill,High-Hill,129.4,First Class,7,82.7,19.8,0.88,0,0,Moderate,4.32,2.8,2.73,749.67,0
+UKL10021,Uttarkashi,Bageshwar,High-Hill,Mid-Hill,325.3,Second Class,10,29.8,87.3,1.19,0,0,Good,4.91,3.8,5.18,1053.79,1
+UKL10022,Champawat,Almora,Mid-Hill,Mid-Hill,163.8,Standard,14,71.3,41.5,1.15,0,0,Good,4.08,4.5,5.69,864.68,1
+UKL10023,Nainital,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,327.6,Standard,12,86.6,63.1,1.08,0,1,Poor,4.76,4.5,7.25,1248.11,1
+UKL10024,Dehradun,Almora,Plain/Lower Hill,Mid-Hill,203.3,Standard,14,64.5,60.3,1.31,0,0,Good,3.52,4.5,6.81,901.49,1
+UKL10025,Almora,Haridwar,Mid-Hill,Plain/Lower Hill,315.9,Standard,9,72.6,50.2,1.04,0,0,Good,3.27,4.5,5.4,1029.9,1
+UKL10026,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,215.2,Second Class,9,111.4,25.7,1.01,0,1,Good,4.55,3.8,5.45,917.42,1
+UKL10027,Champawat,Rudraprayag,Mid-Hill,High-Hill,353.2,Standard,5,82.9,81.9,1.08,0,0,Moderate,4.41,4.5,6.2,1761.4125,1
+UKL10028,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,343.5,Standard,7,71.8,90.2,1.01,0,0,Moderate,3.52,4.5,6.1,1110.42,1
+UKL10029,Dehradun,Pithoragarh,Plain/Lower Hill,High-Hill,273.2,Same Day,3,102.7,56.0,1.24,0,0,Moderate,4.03,1.2,3.44,1288.16,1
+UKL10030,Champawat,Dehradun,Mid-Hill,Plain/Lower Hill,96.9,Standard,11,73.1,52.9,0.89,0,1,Good,3.6,4.5,6.87,646.3,1
+UKL10031,Chamoli,Uttarkashi,High-Hill,High-Hill,298.0,First Class,5,122.6,82.1,0.99,1,0,Moderate,4.01,2.8,4.49,1159.13,1
+UKL10032,Nainital,Bageshwar,Mid-Hill,Mid-Hill,164.0,First Class,8,110.7,38.9,2.04,1,0,Good,3.65,2.8,5.53,886.16,1
+UKL10033,Udham Singh Nagar,Nainital,Plain/Lower Hill,Mid-Hill,116.1,Second Class,7,98.6,77.3,0.62,0,0,Moderate,3.27,3.8,4.91,694.2,1
+UKL10034,Tehri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,378.6,Same Day,5,80.1,92.2,0.22,0,0,Moderate,4.4,1.2,1.82,1376.65,1
+UKL10035,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,163.1,Standard,13,106.8,89.8,1.04,0,1,Good,4.05,4.5,6.07,762.18,1
+UKL10036,Rudraprayag,Chamoli,High-Hill,High-Hill,400.4,Standard,4,77.4,64.4,1.13,0,0,Good,3.79,4.5,6.08,1030.89,1
+UKL10037,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,420.5,Second Class,5,41.8,66.3,1.07,0,0,Moderate,4.3,3.8,4.88,1311.63,1
+UKL10038,Almora,Haridwar,Mid-Hill,Plain/Lower Hill,357.7,Standard,12,106.4,57.8,1.37,0,0,Good,4.06,4.5,5.81,1175.05,1
+UKL10039,Uttarkashi,Pauri Garhwal,High-Hill,Mid-Hill,504.1,Standard,5,101.4,45.7,1.23,1,0,Moderate,4.08,4.5,7.36,1360.71,1
+UKL10040,Bageshwar,Champawat,Mid-Hill,Mid-Hill,380.7,Standard,9,57.6,51.2,1.25,1,0,Good,4.1,4.5,7.15,1189.26,1
+UKL10041,Uttarkashi,Rudraprayag,High-Hill,High-Hill,431.2,Standard,7,64.8,88.0,2.04,1,0,Good,4.04,4.5,6.59,1302.03,1
+UKL10042,Bageshwar,Pithoragarh,Mid-Hill,High-Hill,326.9,Standard,4,109.5,15.0,0.63,1,1,Good,4.115,4.5,6.25,879.83,1
+UKL10043,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,362.3,Second Class,6,51.2,110.8,1.27,0,1,Good,5.0,3.8,6.1,1073.53,1
+UKL10044,Udham Singh Nagar,Nainital,Plain/Lower Hill,Mid-Hill,171.8,Second Class,9,69.7,76.9,0.81,0,0,Moderate,4.13,3.8,5.14,828.97,1
+UKL10045,Haridwar,Pithoragarh,Plain/Lower Hill,High-Hill,263.1,Standard,8,71.8,72.7,1.31,0,1,Moderate,4.7,4.5,6.98,943.2,1
+UKL10046,Udham Singh Nagar,Almora,Plain/Lower Hill,Mid-Hill,332.3,Second Class,4,111.5,74.6,1.74,0,0,Good,4.04,3.8,6.08,1077.6399999999999,1
+UKL10047,Udham Singh Nagar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,316.1,Second Class,9,94.2,70.7,1.35,0,0,Good,4.14,3.8,4.41,1150.21,1
+UKL10048,Nainital,Pauri Garhwal,Mid-Hill,Mid-Hill,168.5,Second Class,8,84.7,102.3,1.31,0,0,Good,3.66,3.8,5.2,772.27,1
+UKL10049,Champawat,Haridwar,Mid-Hill,Plain/Lower Hill,299.5,Standard,12,89.3,59.0,1.01,0,0,Good,3.29,4.5,6.05,1085.1,1
+UKL10050,Bageshwar,Uttarkashi,Mid-Hill,High-Hill,310.8,Standard,10,44.3,83.4,1.69,0,0,Good,4.115,4.5,6.17,1089.38,1
+UKL10051,Uttarkashi,Bageshwar,High-Hill,Mid-Hill,250.3,Standard,8,82.3,82.8,0.9,0,0,Moderate,3.82,4.5,5.71,847.49,1
+UKL10052,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,106.3,Second Class,8,80.8,74.8,0.64,0,0,Good,4.85,3.8,4.6,581.53,1
+UKL10053,Dehradun,Nainital,Plain/Lower Hill,Mid-Hill,213.9,Same Day,3,47.3,61.3,1.05,0,0,Poor,3.44,1.2,3.07,1180.52,1
+UKL10054,Almora,Champawat,Mid-Hill,Mid-Hill,376.2,Standard,14,118.4,89.5,0.71,0,1,Moderate,3.88,4.5,6.31,1304.48,1
+UKL10055,Chamoli,Rudraprayag,High-Hill,High-Hill,490.1,Same Day,9,70.3,90.8,1.11,0,0,Good,4.06,1.2,3.04,1737.38,1
+UKL10056,Pithoragarh,Udham Singh Nagar,High-Hill,Plain/Lower Hill,213.0,Standard,9,122.4,67.6,1.08,0,1,Moderate,4.48,4.5,6.23,830.87,1
+UKL10057,Dehradun,Haridwar,Plain/Lower Hill,Plain/Lower Hill,121.0,Second Class,6,86.5,85.7,1.14,0,0,Good,4.6,3.8,4.63,721.12,1
+UKL10058,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,184.0,Standard,5,88.5,61.7,0.95,1,0,Poor,3.39,4.5,6.69,765.53,1
+UKL10059,Haridwar,Bageshwar,Plain/Lower Hill,Mid-Hill,276.9,Second Class,7,29.8,67.8,1.37,0,1,Good,4.22,3.8,5.47,1098.5,1
+UKL10060,Uttarkashi,Rudraprayag,High-Hill,High-Hill,289.2,Standard,10,49.6,85.2,0.86,1,1,Moderate,4.18,4.5,7.61,1014.35,1
+UKL10061,Dehradun,Haridwar,Plain/Lower Hill,Plain/Lower Hill,59.7,Standard,8,82.3,92.9,0.2,0,1,Good,4.53,4.5,4.54,459.11,0
+UKL10062,Chamoli,Nainital,High-Hill,Mid-Hill,325.5,Standard,11,18.7,81.1,1.27,0,0,Moderate,3.76,4.5,6.52,1181.97,1
+UKL10063,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,339.3,First Class,8,84.3,75.6,1.01,0,0,Good,3.67,2.8,4.7,1222.26,1
+UKL10064,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,249.9,Standard,10,75.0,27.1,1.54,0,1,Good,5.0,4.5,5.96,886.21,1
+UKL10065,Udham Singh Nagar,Bageshwar,Plain/Lower Hill,Mid-Hill,285.6,Standard,11,64.5,55.7,1.39,0,1,Good,3.8,4.5,6.26,1013.04,1
+UKL10066,Champawat,Haridwar,Mid-Hill,Plain/Lower Hill,311.3,First Class,7,82.8,89.4,0.78,0,0,Moderate,3.77,2.8,3.85,1172.51,1
+UKL10067,Champawat,Almora,Mid-Hill,Mid-Hill,187.5,Standard,5,60.8,64.7,1.38,0,0,Good,4.19,4.5,4.8,737.92,1
+UKL10068,Uttarkashi,Pithoragarh,High-Hill,High-Hill,495.6,Standard,5,79.6,32.9,1.64,0,0,Moderate,3.74,4.5,6.95,1379.79,1
+UKL10069,Nainital,Uttarkashi,Mid-Hill,High-Hill,397.1,Same Day,6,47.2,81.5,1.42,0,0,Moderate,4.58,1.2,2.38,1477.31,1
+UKL10070,Nainital,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,349.8,First Class,9,80.6,69.5,1.37,0,0,Moderate,3.95,2.8,4.07,1346.04,1
+UKL10071,Chamoli,Uttarkashi,High-Hill,High-Hill,579.2,Second Class,9,52.3,74.5,1.8,0,1,Good,3.34,3.8,5.58,1662.75,1
+UKL10072,Dehradun,Champawat,Plain/Lower Hill,Mid-Hill,204.3,Standard,12,107.5,80.8,0.39,1,0,Moderate,3.89,4.5,7.09,869.77,1
+UKL10073,Chamoli,Bageshwar,High-Hill,Mid-Hill,412.2,First Class,10,49.8,54.8,1.25,0,1,Moderate,3.34,2.8,5.23,1480.61,1
+UKL10074,Chamoli,Pauri Garhwal,High-Hill,Mid-Hill,394.1,Standard,9,54.7,80.5,0.73,0,1,Moderate,5.0,4.5,6.45,1188.03,1
+UKL10075,Tehri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,322.3,Same Day,8,74.2,62.9,1.02,0,0,Poor,4.69,1.2,2.75,1418.81,1
+UKL10076,Champawat,Almora,Mid-Hill,Mid-Hill,303.8,Standard,11,81.3,105.2,1.11,0,1,Moderate,4.6,4.5,6.14,1173.49,1
+UKL10077,Pithoragarh,Chamoli,High-Hill,High-Hill,457.0,Standard,8,78.8,81.5,1.26,0,0,Moderate,3.9,4.5,7.06,1311.12,1
+UKL10078,Bageshwar,Champawat,Mid-Hill,Mid-Hill,288.2,Second Class,7,108.8,54.8,1.44,1,0,Moderate,4.39,3.8,5.74,1106.84,1
+UKL10079,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,364.8,Standard,10,53.6,101.4,1.37,0,0,Moderate,4.05,4.5,5.84,1160.03,1
+UKL10080,Champawat,Tehri Garhwal,Mid-Hill,Mid-Hill,339.9,Second Class,10,57.4,47.1,0.79,0,1,Poor,4.1,3.8,5.77,1303.47,1
+UKL10081,Tehri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,254.2,Second Class,9,80.2,72.0,1.59,0,0,Moderate,4.13,3.8,4.73,1089.01,1
+UKL10082,Bageshwar,Tehri Garhwal,Mid-Hill,Mid-Hill,251.2,Standard,9,94.6,62.4,0.86,0,0,Good,3.95,4.5,6.0,986.06,1
+UKL10083,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,253.1,Standard,14,101.1,68.6,1.55,0,0,Good,3.92,4.5,5.0,1021.57,1
+UKL10084,Chamoli,Pauri Garhwal,High-Hill,Mid-Hill,538.2,First Class,9,122.6,87.1,0.97,0,0,Moderate,3.48,2.8,4.84,1718.85,1
+UKL10085,Pithoragarh,Haridwar,High-Hill,Plain/Lower Hill,376.1,Standard,3,96.9,53.5,1.33,0,0,Good,3.12,4.5,6.42,1055.67,1
+UKL10086,Tehri Garhwal,Pithoragarh,Mid-Hill,High-Hill,364.0,Standard,13,61.1,57.4,1.2,0,1,Moderate,4.51,4.5,6.73,1220.02,1
+UKL10087,Chamoli,Almora,High-Hill,Mid-Hill,323.0,Standard,5,29.2,69.1,0.86,0,1,Good,4.13,4.5,5.83,960.44,1
+UKL10088,Chamoli,Nainital,High-Hill,Mid-Hill,408.3,Standard,10,80.9,88.6,1.55,1,0,Moderate,3.67,4.5,7.13,1243.5,1
+UKL10089,Bageshwar,Rudraprayag,Mid-Hill,High-Hill,438.0,Standard,12,100.8,74.8,0.93,0,0,Moderate,3.28,4.5,6.26,1375.82,1
+UKL10090,Bageshwar,Pithoragarh,Mid-Hill,High-Hill,260.6,Standard,8,69.3,67.5,1.66,0,1,Moderate,3.92,4.5,7.15,960.9,1
+UKL10091,Bageshwar,Pithoragarh,Mid-Hill,High-Hill,351.1,Standard,7,112.9,51.7,1.05,0,1,Good,4.26,4.5,5.65,1106.73,1
+UKL10092,Haridwar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,234.1,First Class,7,75.8,34.6,0.6,0,0,Good,4.36,2.8,3.47,1044.33,1
+UKL10093,Almora,Haridwar,Mid-Hill,Plain/Lower Hill,195.7,Standard,8,83.0,52.7,1.25,0,0,Poor,4.115,4.5,7.12,874.57,1
+UKL10094,Uttarkashi,Pithoragarh,High-Hill,High-Hill,451.5,Standard,12,85.8,102.2,1.24,1,0,Moderate,3.39,4.5,6.89,1416.85,1
+UKL10095,Nainital,Pithoragarh,Mid-Hill,High-Hill,282.5,Second Class,5,101.4,55.4,1.29,0,0,Moderate,4.65,3.8,5.44,985.06,1
+UKL10096,Nainital,Rudraprayag,Mid-Hill,High-Hill,351.9,Second Class,9,74.7,84.7,1.52,0,0,Poor,3.75,3.8,5.82,1282.28,1
+UKL10097,Almora,Nainital,Mid-Hill,Mid-Hill,112.6,Standard,8,31.5,46.3,0.91,0,0,Moderate,3.99,4.5,6.18,636.63,1
+UKL10098,Dehradun,Rudraprayag,Plain/Lower Hill,High-Hill,288.0,Standard,6,64.0,87.0,1.68,0,0,Moderate,4.29,4.5,6.74,1037.11,1
+UKL10099,Rudraprayag,Bageshwar,High-Hill,Mid-Hill,366.2,First Class,4,77.0,101.9,1.45,0,0,Moderate,3.95,2.8,4.4,1237.62,1
+UKL10100,Bageshwar,Pauri Garhwal,Mid-Hill,Mid-Hill,341.1,Same Day,6,96.3,81.2,1.14,0,0,Good,4.51,1.2,3.21,1421.02,1
+UKL10101,Uttarkashi,Pithoragarh,High-Hill,High-Hill,321.6,Standard,4,66.7,99.3,1.11,0,1,Moderate,3.54,4.5,5.95,973.09,1
+UKL10102,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,291.7,Standard,11,57.2,70.9,1.36,0,0,Good,3.59,4.5,6.32,1054.69,1
+UKL10103,Rudraprayag,Dehradun,High-Hill,Plain/Lower Hill,227.2,Second Class,9,49.0,81.5,1.28,1,1,Moderate,4.6,3.8,6.14,985.42,1
+UKL10104,Bageshwar,Haridwar,Mid-Hill,Plain/Lower Hill,133.8,First Class,8,20.2,76.4,1.06,0,1,Moderate,4.43,2.8,4.26,893.57,1
+UKL10105,Champawat,Haridwar,Mid-Hill,Plain/Lower Hill,315.6,Standard,9,43.0,54.0,0.7,1,0,Moderate,4.22,4.5,5.93,1039.48,1
+UKL10106,Uttarkashi,Chamoli,High-Hill,High-Hill,441.9,First Class,9,84.4,67.4,1.4,1,0,Moderate,3.91,2.8,4.75,1469.69,1
+UKL10107,Uttarkashi,Nainital,High-Hill,Mid-Hill,466.7,Standard,8,58.4,78.9,1.49,0,0,Moderate,4.77,4.5,7.19,1360.82,1
+UKL10108,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,265.9,Second Class,7,85.4,87.5,1.4,0,0,Moderate,5.0,3.8,5.23,1020.23,1
+UKL10109,Chamoli,Nainital,High-Hill,Mid-Hill,417.6,Standard,10,45.4,64.7,1.58,0,1,Moderate,3.87,4.5,7.07,1271.07,1
+UKL10110,Almora,Chamoli,Mid-Hill,High-Hill,412.9,Standard,6,71.4,52.9,0.84,0,0,Good,3.9,4.5,5.89,1203.2,1
+UKL10111,Bageshwar,Tehri Garhwal,Mid-Hill,Mid-Hill,348.7,First Class,10,43.5,88.3,0.84,0,0,Moderate,3.94,2.8,5.11,1447.46,1
+UKL10112,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,348.0,Same Day,5,66.4,57.7,0.2,0,1,Good,4.25,1.2,1.47,1264.83,1
+UKL10113,Uttarkashi,Champawat,High-Hill,Mid-Hill,278.2,Standard,7,25.8,46.6,0.84,0,0,Good,3.72,4.5,5.82,965.25,1
+UKL10114,Dehradun,Pithoragarh,Plain/Lower Hill,High-Hill,345.1,Same Day,8,65.9,61.6,1.47,0,0,Good,4.01,1.2,2.41,1402.25,1
+UKL10115,Uttarkashi,Haridwar,High-Hill,Plain/Lower Hill,291.0,Standard,9,87.9,88.3,1.72,1,1,Moderate,4.19,4.5,7.18,1073.8,1
+UKL10116,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,136.0,First Class,7,97.6,15.0,1.2,0,0,Moderate,4.59,2.8,4.0,773.76,1
+UKL10117,Uttarkashi,Rudraprayag,High-Hill,High-Hill,291.1,Standard,7,62.1,39.2,1.58,0,0,Moderate,3.9,4.5,6.63,1043.18,1
+UKL10118,Champawat,Chamoli,Mid-Hill,High-Hill,317.7,First Class,7,39.8,81.3,1.08,1,0,Moderate,4.41,2.8,4.31,1179.02,1
+UKL10119,Champawat,Almora,Mid-Hill,Mid-Hill,253.2,First Class,9,95.2,84.0,1.48,0,0,Moderate,4.59,2.8,4.52,1144.35,1
+UKL10120,Pithoragarh,Dehradun,High-Hill,Plain/Lower Hill,405.9,Standard,10,62.2,61.5,1.23,0,0,Good,4.15,4.5,5.74,1168.16,1
+UKL10121,Nainital,Dehradun,Mid-Hill,Plain/Lower Hill,267.5,First Class,13,83.5,85.0,1.15,0,0,Moderate,3.95,2.8,3.75,1201.38,1
+UKL10122,Bageshwar,Pithoragarh,Mid-Hill,High-Hill,268.8,Standard,9,71.1,62.5,0.93,0,0,Moderate,3.81,4.5,6.04,975.59,1
+UKL10123,Dehradun,Pithoragarh,Plain/Lower Hill,High-Hill,223.7,Standard,10,58.5,84.8,1.24,0,0,Moderate,4.44,4.5,5.51,895.13,1
+UKL10124,Haridwar,Uttarkashi,Plain/Lower Hill,High-Hill,370.6,Standard,3,78.6,78.8,1.02,0,1,Poor,4.19,4.5,6.57,1187.3,1
+UKL10125,Bageshwar,Almora,Mid-Hill,Mid-Hill,477.3,Standard,12,95.0,65.5,1.44,0,0,Moderate,4.04,4.5,6.06,1400.41,1
+UKL10126,Champawat,Pauri Garhwal,Mid-Hill,Mid-Hill,197.0,Second Class,12,87.1,43.9,1.41,0,0,Moderate,4.48,3.8,5.17,978.66,1
+UKL10127,Rudraprayag,Haridwar,High-Hill,Plain/Lower Hill,311.9,Second Class,14,70.5,56.1,1.15,0,1,Moderate,4.01,3.8,5.16,1331.51,1
+UKL10128,Rudraprayag,Tehri Garhwal,High-Hill,Mid-Hill,537.3,Second Class,7,96.4,68.2,1.12,0,1,Good,5.0,3.8,6.09,1500.27,1
+UKL10129,Uttarkashi,Bageshwar,High-Hill,Mid-Hill,257.7,Standard,12,67.6,85.0,1.08,0,1,Moderate,3.41,4.5,6.79,1003.2,1
+UKL10130,Champawat,Uttarkashi,Mid-Hill,High-Hill,439.3,Standard,4,44.7,55.2,1.5,0,0,Moderate,4.2,4.5,6.0,1232.49,1
+UKL10131,Pauri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,227.5,Standard,11,83.9,53.2,1.04,0,0,Good,4.23,4.5,5.32,821.12,1
+UKL10132,Nainital,Haridwar,Mid-Hill,Plain/Lower Hill,258.4,First Class,12,95.8,66.2,1.11,0,0,Poor,4.41,2.8,4.26,1247.58,1
+UKL10133,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,427.0,Second Class,8,86.3,37.0,1.43,0,1,Good,4.11,3.8,6.18,1309.64,1
+UKL10134,Uttarkashi,Bageshwar,High-Hill,Mid-Hill,214.5,Standard,3,65.9,47.3,1.44,0,0,Good,3.97,4.5,5.35,763.09,1
+UKL10135,Bageshwar,Rudraprayag,Mid-Hill,High-Hill,425.0,Standard,7,64.8,39.1,0.8,0,0,Good,4.13,4.5,5.01,1175.97,1
+UKL10136,Dehradun,Uttarkashi,Plain/Lower Hill,High-Hill,340.7,Standard,12,77.9,58.0,1.01,0,0,Moderate,4.17,4.5,5.79,1119.94,1
+UKL10137,Rudraprayag,Tehri Garhwal,High-Hill,Mid-Hill,406.3,Standard,3,65.6,47.2,1.25,0,0,Good,4.02,4.5,5.8,1077.6399999999999,1
+UKL10138,Uttarkashi,Pauri Garhwal,High-Hill,Mid-Hill,271.4,Second Class,10,114.5,125.8,0.74,0,0,Moderate,3.85,3.8,4.95,1030.21,1
+UKL10139,Almora,Uttarkashi,Mid-Hill,High-Hill,353.3,Standard,11,95.8,74.5,0.77,0,0,Good,3.79,4.5,5.98,1169.6,1
+UKL10140,Uttarkashi,Almora,High-Hill,Mid-Hill,328.8,Second Class,10,101.8,73.8,1.34,0,0,Moderate,3.98,3.8,5.48,1187.0,1
+UKL10141,Pauri Garhwal,Haridwar,Mid-Hill,Plain/Lower Hill,330.5,Second Class,12,72.1,70.8,1.45,0,0,Good,4.3,3.8,5.9,1223.6,1
+UKL10142,Tehri Garhwal,Pauri Garhwal,Mid-Hill,Mid-Hill,402.6,Standard,5,58.1,79.3,0.81,0,1,Good,4.1,4.5,5.63,1102.52,1
+UKL10143,Dehradun,Rudraprayag,Plain/Lower Hill,High-Hill,394.5,Same Day,11,91.3,89.6,1.08,0,0,Poor,3.49,1.2,3.9,1677.32,1
+UKL10144,Pauri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,346.2,Standard,5,65.3,99.5,1.47,0,0,Good,3.63,4.5,5.74,1057.31,1
+UKL10145,Nainital,Dehradun,Mid-Hill,Plain/Lower Hill,131.6,Standard,9,65.0,38.8,1.7,0,0,Poor,4.115,4.5,5.81,728.89,1
+UKL10146,Dehradun,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,342.2,Standard,6,38.8,93.4,1.1,0,0,Good,3.77,4.5,6.07,994.87,1
+UKL10147,Champawat,Rudraprayag,Mid-Hill,High-Hill,369.2,Second Class,8,83.8,45.1,1.01,0,1,Good,4.1,3.8,5.62,1123.21,1
+UKL10148,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,370.6,First Class,9,43.0,19.6,0.98,0,1,Good,4.115,2.8,4.75,1077.6399999999999,1
+UKL10149,Rudraprayag,Dehradun,High-Hill,Plain/Lower Hill,443.2,Same Day,8,83.6,83.8,0.7,0,0,Moderate,5.0,1.2,3.06,1634.87,1
+UKL10150,Dehradun,Uttarkashi,Plain/Lower Hill,High-Hill,179.3,Standard,7,114.3,15.0,1.77,0,0,Good,4.14,4.5,4.96,749.71,1
+UKL10151,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,284.6,Standard,4,74.4,88.0,1.11,0,0,Poor,3.45,4.5,6.29,946.08,1
+UKL10152,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,343.1,Standard,6,43.2,96.5,1.02,0,0,Good,3.58,4.5,5.24,1056.59,1
+UKL10153,Chamoli,Nainital,High-Hill,Mid-Hill,432.3,Standard,11,55.0,81.9,1.2,0,0,Moderate,3.76,4.5,6.84,1370.01,1
+UKL10154,Champawat,Nainital,Mid-Hill,Mid-Hill,326.6,First Class,8,43.9,58.4,1.05,1,1,Good,4.1,2.8,4.93,1158.42,1
+UKL10155,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,284.2,First Class,8,69.1,77.3,0.85,0,0,Good,4.115,2.8,4.37,1153.32,1
+UKL10156,Pithoragarh,Bageshwar,High-Hill,Mid-Hill,419.8,Same Day,6,47.4,71.1,1.55,0,1,Good,3.1,1.2,3.05,1546.57,1
+UKL10157,Champawat,Bageshwar,Mid-Hill,Mid-Hill,297.2,Standard,8,57.3,65.0,1.25,1,1,Good,3.81,4.5,6.7,1040.4,1
+UKL10158,Rudraprayag,Udham Singh Nagar,High-Hill,Plain/Lower Hill,128.4,Second Class,8,93.0,35.7,1.34,0,0,Moderate,3.71,3.8,4.94,766.82,1
+UKL10159,Champawat,Haridwar,Mid-Hill,Plain/Lower Hill,172.0,Standard,9,85.0,62.4,1.1,0,1,Good,4.39,4.5,6.4,775.48,1
+UKL10160,Chamoli,Bageshwar,High-Hill,Mid-Hill,372.8,First Class,11,92.6,69.9,0.89,0,0,Moderate,3.81,2.8,3.6,1397.3,1
+UKL10161,Almora,Uttarkashi,Mid-Hill,High-Hill,119.3,Second Class,8,72.2,67.9,1.22,0,1,Good,4.15,3.8,4.92,708.3,1
+UKL10162,Pithoragarh,Uttarkashi,High-Hill,High-Hill,397.6,Same Day,14,59.3,69.2,1.3,0,0,Poor,3.26,1.2,2.48,1077.6399999999999,1
+UKL10163,Pauri Garhwal,Tehri Garhwal,Mid-Hill,Mid-Hill,466.0,Second Class,10,63.6,110.9,0.45,0,0,Good,3.93,3.8,5.02,1474.83,1
+UKL10164,Udham Singh Nagar,Pithoragarh,Plain/Lower Hill,High-Hill,315.9,Second Class,5,73.4,47.2,0.8,0,0,Good,4.67,3.8,5.11,1057.81,1
+UKL10165,Rudraprayag,Nainital,High-Hill,Mid-Hill,459.7,First Class,10,70.7,45.6,1.13,0,0,Good,4.49,2.8,3.17,1401.87,1
+UKL10166,Pithoragarh,Haridwar,High-Hill,Plain/Lower Hill,240.4,Standard,15,83.7,106.0,0.79,0,0,Good,5.0,4.5,5.16,949.82,1
+UKL10167,Bageshwar,Uttarkashi,Mid-Hill,High-Hill,266.6,First Class,9,94.6,87.8,0.85,1,0,Good,4.36,2.8,5.24,1087.3,1
+UKL10168,Udham Singh Nagar,Bageshwar,Plain/Lower Hill,Mid-Hill,263.8,First Class,8,71.8,66.2,1.53,0,0,Moderate,4.83,2.8,3.98,1160.47,1
+UKL10169,Tehri Garhwal,Almora,Mid-Hill,Mid-Hill,243.7,Same Day,8,88.8,78.5,0.74,0,0,Good,4.02,1.2,1.43,1282.01,0
+UKL10170,Pithoragarh,Almora,High-Hill,Mid-Hill,427.5,Second Class,10,82.6,90.0,0.91,0,0,Good,3.82,3.8,4.73,1077.6399999999999,1
+UKL10171,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,239.9,First Class,7,49.2,44.2,0.82,0,0,Moderate,4.3,2.8,4.24,1062.63,1
+UKL10172,Pauri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,365.0,Second Class,4,55.9,87.4,0.96,0,1,Moderate,3.99,3.8,5.84,1141.1,1
+UKL10173,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,342.4,Second Class,9,77.0,83.9,0.8,0,0,Poor,4.6,3.8,5.48,1231.84,1
+UKL10174,Udham Singh Nagar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,368.1,Standard,8,105.3,55.4,1.15,0,0,Poor,4.36,4.5,6.67,1166.6,1
+UKL10175,Pithoragarh,Tehri Garhwal,High-Hill,Mid-Hill,410.5,Same Day,5,69.5,15.0,1.53,0,0,Moderate,3.36,1.2,2.5,1542.71,1
+UKL10176,Chamoli,Nainital,High-Hill,Mid-Hill,383.3,Standard,13,73.4,93.0,0.94,0,0,Good,3.58,4.5,4.81,1280.19,1
+UKL10177,Chamoli,Almora,High-Hill,Mid-Hill,372.5,Standard,12,102.5,58.6,1.47,1,0,Moderate,4.13,4.5,6.55,1231.02,1
+UKL10178,Bageshwar,Chamoli,Mid-Hill,High-Hill,471.9,Standard,6,135.50000000000003,90.9,1.16,0,0,Good,4.01,4.5,6.66,1205.45,1
+UKL10179,Haridwar,Chamoli,Plain/Lower Hill,High-Hill,222.1,Same Day,13,60.0,78.3,1.12,0,1,Poor,4.23,1.2,3.81,1351.64,1
+UKL10180,Dehradun,Rudraprayag,Plain/Lower Hill,High-Hill,248.8,Standard,11,103.2,72.4,1.28,0,1,Moderate,4.6,4.5,6.27,1077.6399999999999,1
+UKL10181,Udham Singh Nagar,Nainital,Plain/Lower Hill,Mid-Hill,223.7,Second Class,9,109.5,72.5,0.86,0,1,Moderate,3.57,3.8,4.38,982.66,1
+UKL10182,Dehradun,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,210.7,Standard,10,68.0,37.3,0.76,1,1,Good,4.44,4.5,6.53,865.16,1
+UKL10183,Champawat,Haridwar,Mid-Hill,Plain/Lower Hill,290.5,First Class,6,63.4,92.2,0.2,0,0,Moderate,4.26,2.8,3.37,1020.47,1
+UKL10184,Chamoli,Pauri Garhwal,High-Hill,Mid-Hill,273.9,First Class,7,108.6,73.4,0.35,0,1,Good,3.68,2.8,4.33,1058.65,1
+UKL10185,Haridwar,Chamoli,Plain/Lower Hill,High-Hill,292.8,First Class,8,70.2,84.0,0.8,0,1,Good,4.6,2.8,3.97,1219.16,1
+UKL10186,Uttarkashi,Chamoli,High-Hill,High-Hill,431.4,Standard,11,29.8,61.2,1.01,1,0,Good,3.56,4.5,7.41,1333.13,1
+UKL10187,Dehradun,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,44.7,Second Class,4,93.3,111.5,0.47,0,0,Poor,4.37,3.8,4.34,478.11,1
+UKL10188,Uttarkashi,Chamoli,High-Hill,High-Hill,304.9,Second Class,6,51.0,57.2,1.23,1,1,Good,4.07,3.8,6.28,1036.7,1
+UKL10189,Pauri Garhwal,Nainital,Mid-Hill,Mid-Hill,271.2,Same Day,12,70.4,33.9,0.61,0,0,Poor,4.57,1.2,2.35,1440.25,1
+UKL10190,Rudraprayag,Nainital,High-Hill,Mid-Hill,382.3,Second Class,9,66.6,78.5,1.73,0,0,Good,4.45,3.8,5.12,1277.75,1
+UKL10191,Udham Singh Nagar,Nainital,Plain/Lower Hill,Mid-Hill,312.0,Standard,7,83.6,89.1,1.53,0,0,Moderate,4.13,4.5,6.61,990.42,1
+UKL10192,Haridwar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,267.5,Standard,9,91.0,71.6,1.24,0,1,Good,4.58,4.5,6.0,958.91,1
+UKL10193,Chamoli,Udham Singh Nagar,High-Hill,Plain/Lower Hill,159.1,First Class,9,100.6,40.4,1.22,1,0,Good,3.81,2.8,3.87,941.77,1
+UKL10194,Champawat,Bageshwar,Mid-Hill,Mid-Hill,277.5,Standard,11,76.6,48.0,1.21,0,1,Good,4.44,4.5,5.83,948.95,1
+UKL10195,Nainital,Champawat,Mid-Hill,Mid-Hill,180.3,Second Class,9,65.7,92.6,1.44,0,0,Good,4.25,3.8,4.29,798.95,1
+UKL10196,Rudraprayag,Uttarkashi,High-Hill,High-Hill,359.4,Same Day,9,20.9,53.6,1.62,0,0,Good,4.07,1.2,3.54,1535.98,1
+UKL10197,Pauri Garhwal,Chamoli,Mid-Hill,High-Hill,204.3,Second Class,13,77.1,63.1,1.16,0,1,Good,3.94,3.8,4.59,983.32,1
+UKL10198,Nainital,Champawat,Mid-Hill,Mid-Hill,396.2,Standard,11,68.1,45.5,0.9,0,0,Moderate,4.115,4.5,5.63,1238.35,1
+UKL10199,Almora,Chamoli,Mid-Hill,High-Hill,360.7,First Class,6,75.8,51.9,1.15,1,0,Good,4.17,2.8,4.64,1305.94,1
+UKL10200,Pithoragarh,Bageshwar,High-Hill,Mid-Hill,263.6,Second Class,5,64.9,52.4,1.21,1,0,Moderate,4.32,3.8,5.94,977.55,1
+UKL10201,Pithoragarh,Champawat,High-Hill,Mid-Hill,471.2,First Class,9,45.1,92.5,0.67,0,0,Poor,4.21,2.8,4.98,1539.3,1
+UKL10202,Tehri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,402.4,Standard,12,78.0,49.6,1.09,0,0,Good,3.59,4.5,5.61,1077.6399999999999,1
+UKL10203,Pithoragarh,Uttarkashi,High-Hill,High-Hill,484.5,Standard,12,51.7,66.4,1.59,0,0,Good,4.11,4.5,6.34,1432.65,1
+UKL10204,Uttarkashi,Champawat,High-Hill,Mid-Hill,228.4,Second Class,8,89.9,73.3,1.54,0,0,Good,3.07,3.8,5.08,907.11,1
+UKL10205,Bageshwar,Chamoli,Mid-Hill,High-Hill,177.3,Standard,9,85.2,83.4,0.95,0,0,Good,3.11,4.5,5.38,714.37,1
+UKL10206,Nainital,Uttarkashi,Mid-Hill,High-Hill,161.9,Second Class,8,105.4,127.49999999999999,1.01,0,1,Moderate,4.44,3.8,5.93,774.38,1
+UKL10207,Bageshwar,Pithoragarh,Mid-Hill,High-Hill,341.8,Standard,11,66.4,72.8,1.16,0,0,Good,4.03,4.5,5.58,1193.62,1
+UKL10208,Chamoli,Nainital,High-Hill,Mid-Hill,240.0,Standard,11,55.1,31.2,1.77,0,1,Good,4.32,4.5,7.05,946.08,1
+UKL10209,Pithoragarh,Pauri Garhwal,High-Hill,Mid-Hill,336.6,Standard,10,59.6,89.7,1.34,0,1,Good,4.05,4.5,6.44,1063.7,1
+UKL10210,Udham Singh Nagar,Nainital,Plain/Lower Hill,Mid-Hill,260.3,Standard,6,55.9,86.1,1.04,0,0,Moderate,4.08,4.5,5.97,990.55,1
+UKL10211,Haridwar,Bageshwar,Plain/Lower Hill,Mid-Hill,297.5,Second Class,6,80.0,49.4,1.09,0,1,Good,3.98,3.8,4.95,1055.91,1
+UKL10212,Champawat,Uttarkashi,Mid-Hill,High-Hill,377.8,Standard,12,107.6,78.3,1.08,0,1,Moderate,4.59,4.5,6.78,1264.83,1
+UKL10213,Udham Singh Nagar,Nainital,Plain/Lower Hill,Mid-Hill,194.0,Standard,8,68.9,74.1,0.77,0,1,Moderate,4.4,4.5,6.42,824.96,1
+UKL10214,Pithoragarh,Almora,High-Hill,Mid-Hill,426.2,Second Class,12,58.6,40.1,0.92,0,0,Good,4.56,3.8,5.26,1349.89,1
+UKL10215,Pithoragarh,Tehri Garhwal,High-Hill,Mid-Hill,398.6,Standard,7,71.0,66.0,0.64,0,1,Moderate,4.02,4.5,6.09,1141.72,1
+UKL10216,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,431.9,Standard,5,45.2,65.7,1.11,0,0,Good,4.55,4.5,5.72,1169.35,1
+UKL10217,Nainital,Tehri Garhwal,Mid-Hill,Mid-Hill,273.6,Standard,9,92.7,68.8,0.88,1,1,Moderate,4.38,4.5,6.09,933.06,1
+UKL10218,Haridwar,Champawat,Plain/Lower Hill,Mid-Hill,230.3,Second Class,5,90.5,88.2,1.08,0,0,Moderate,3.81,3.8,4.81,884.62,1
+UKL10219,Pauri Garhwal,Tehri Garhwal,Mid-Hill,Mid-Hill,322.5,Standard,8,76.1,75.1,0.91,0,0,Poor,4.5,4.5,5.78,1102.08,1
+UKL10220,Bageshwar,Almora,Mid-Hill,Mid-Hill,593.1000000000001,Standard,7,85.2,104.0,0.76,0,0,Good,4.14,4.5,6.17,1066.35,1
+UKL10221,Udham Singh Nagar,Nainital,Plain/Lower Hill,Mid-Hill,367.4,Standard,8,59.5,48.4,1.53,1,1,Moderate,4.08,4.5,7.38,1188.99,1
+UKL10222,Almora,Nainital,Mid-Hill,Mid-Hill,395.9,First Class,7,40.8,67.7,0.68,0,0,Good,3.9,2.8,4.24,1310.75,1
+UKL10223,Bageshwar,Rudraprayag,Mid-Hill,High-Hill,449.7,Standard,4,88.7,78.5,1.6,0,1,Good,4.25,4.5,7.49,1127.09,1
+UKL10224,Bageshwar,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,202.9,Standard,9,80.6,70.6,0.39,0,0,Moderate,3.66,4.5,5.11,840.95,1
+UKL10225,Nainital,Rudraprayag,Mid-Hill,High-Hill,491.4,First Class,6,55.1,69.8,1.91,0,0,Moderate,4.18,2.8,5.03,1523.97,1
+UKL10226,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,269.1,Same Day,7,80.8,28.6,1.47,0,1,Poor,3.28,1.2,3.78,1312.79,1
+UKL10227,Udham Singh Nagar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,147.6,Standard,3,68.2,73.5,1.33,1,1,Good,4.51,4.5,5.92,591.08,1
+UKL10228,Chamoli,Champawat,High-Hill,Mid-Hill,260.4,Same Day,9,91.5,55.0,1.55,0,0,Good,4.27,1.2,1.69,1241.46,1
+UKL10229,Bageshwar,Chamoli,Mid-Hill,High-Hill,194.7,Second Class,10,76.0,62.7,1.18,0,0,Poor,4.35,3.8,5.11,980.98,1
+UKL10230,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,208.6,Standard,7,65.9,94.0,1.45,0,0,Moderate,4.03,4.5,6.8,812.28,1
+UKL10231,Pauri Garhwal,Tehri Garhwal,Mid-Hill,Mid-Hill,212.6,Standard,11,107.0,66.8,1.08,0,0,Good,3.26,4.5,5.18,875.28,1
+UKL10232,Haridwar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,243.4,First Class,9,84.0,60.1,1.05,0,0,Moderate,4.26,2.8,3.31,1077.6399999999999,1
+UKL10233,Pauri Garhwal,Pithoragarh,Mid-Hill,High-Hill,472.2,Standard,7,27.6,89.6,1.38,1,0,Good,3.92,4.5,6.73,1345.9,1
+UKL10234,Nainital,Pithoragarh,Mid-Hill,High-Hill,256.3,First Class,10,52.7,51.7,1.24,0,0,Moderate,4.57,2.8,4.08,1138.29,1
+UKL10235,Bageshwar,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,125.5,Standard,5,79.3,42.9,0.63,0,0,Moderate,3.97,4.5,6.0,541.33,1
+UKL10236,Champawat,Uttarkashi,Mid-Hill,High-Hill,253.3,Second Class,9,53.5,46.4,0.98,1,0,Good,5.0,3.8,5.59,990.71,1
+UKL10237,Champawat,Chamoli,Mid-Hill,High-Hill,376.7,Standard,6,73.7,66.0,1.22,0,1,Moderate,4.16,4.5,6.61,1087.09,1
+UKL10238,Bageshwar,Dehradun,Mid-Hill,Plain/Lower Hill,222.9,Standard,7,67.9,73.0,1.54,0,0,Good,3.4,4.5,5.83,800.99,1
+UKL10239,Haridwar,Dehradun,Plain/Lower Hill,Plain/Lower Hill,103.5,Standard,8,56.7,72.7,1.1,0,0,Moderate,4.29,4.5,5.11,572.83,1
+UKL10240,Bageshwar,Pithoragarh,Mid-Hill,High-Hill,307.7,Same Day,7,104.0,90.7,1.26,0,0,Moderate,4.42,1.2,2.62,1283.68,1
+UKL10241,Pauri Garhwal,Tehri Garhwal,Mid-Hill,Mid-Hill,281.6,Standard,10,85.6,73.5,0.38,0,0,Good,4.0,4.5,4.81,938.69,1
+UKL10242,Bageshwar,Dehradun,Mid-Hill,Plain/Lower Hill,233.1,Second Class,7,69.9,107.4,1.57,0,0,Moderate,4.115,3.8,5.78,926.71,1
+UKL10243,Nainital,Dehradun,Mid-Hill,Plain/Lower Hill,173.4,Second Class,6,80.5,64.6,1.04,0,0,Good,3.8,3.8,4.39,790.08,1
+UKL10244,Bageshwar,Haridwar,Mid-Hill,Plain/Lower Hill,286.8,Standard,9,69.6,44.4,1.4,0,1,Good,3.91,4.5,6.46,1038.88,1
+UKL10245,Almora,Rudraprayag,Mid-Hill,High-Hill,324.6,Standard,6,83.7,63.1,1.31,0,0,Poor,4.61,4.5,7.29,1056.87,1
+UKL10246,Uttarkashi,Haridwar,High-Hill,Plain/Lower Hill,286.3,Standard,6,87.0,127.49999999999999,1.05,0,1,Good,4.18,4.5,5.01,868.39,1
+UKL10247,Pauri Garhwal,Chamoli,Mid-Hill,High-Hill,449.7,Standard,7,95.4,71.2,0.72,0,0,Good,4.65,4.5,5.06,1208.64,1
+UKL10248,Almora,Uttarkashi,Mid-Hill,High-Hill,273.9,Same Day,9,70.6,80.8,1.43,0,0,Moderate,4.14,1.2,2.82,1354.02,1
+UKL10249,Pithoragarh,Almora,High-Hill,Mid-Hill,324.7,Standard,7,68.0,30.8,1.31,0,0,Moderate,4.11,4.5,6.05,1031.71,1
+UKL10250,Pithoragarh,Chamoli,High-Hill,High-Hill,513.4,First Class,9,69.5,25.0,1.28,0,0,Moderate,3.57,2.8,5.05,1663.8,1
+UKL10251,Nainital,Tehri Garhwal,Mid-Hill,Mid-Hill,391.1,Standard,11,100.8,59.2,0.53,0,0,Moderate,3.98,4.5,5.81,1195.85,1
+UKL10252,Bageshwar,Pauri Garhwal,Mid-Hill,Mid-Hill,295.0,Standard,3,50.2,47.9,0.72,0,0,Moderate,3.67,4.5,5.61,895.42,1
+UKL10253,Champawat,Almora,Mid-Hill,Mid-Hill,201.3,Standard,9,98.9,86.2,0.72,0,0,Moderate,4.115,4.5,5.34,854.36,1
+UKL10254,Pithoragarh,Tehri Garhwal,High-Hill,Mid-Hill,413.8,First Class,8,80.1,86.1,1.14,0,0,Moderate,3.97,2.8,4.26,1430.71,1
+UKL10255,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,86.8,Standard,10,69.2,36.6,0.2,1,1,Moderate,3.75,4.5,6.65,614.94,1
+UKL10256,Udham Singh Nagar,Rudraprayag,Plain/Lower Hill,High-Hill,137.7,Standard,8,55.7,21.0,1.16,0,1,Good,3.78,4.5,6.22,713.08,1
+UKL10257,Udham Singh Nagar,Pithoragarh,Plain/Lower Hill,High-Hill,393.4,Same Day,8,98.9,45.2,0.85,0,0,Good,3.16,1.2,2.5,1610.2,1
+UKL10258,Tehri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,340.2,Second Class,6,70.4,76.8,0.62,0,0,Good,3.88,3.8,4.74,966.56,1
+UKL10259,Nainital,Rudraprayag,Mid-Hill,High-Hill,397.8,First Class,7,104.0,47.8,0.57,1,1,Good,4.02,2.8,4.81,1284.9,1
+UKL10260,Champawat,Bageshwar,Mid-Hill,Mid-Hill,206.2,Standard,11,77.2,70.9,0.69,0,1,Moderate,4.02,4.5,5.47,852.48,1
+UKL10261,Chamoli,Bageshwar,High-Hill,Mid-Hill,191.8,Standard,9,73.8,79.2,0.8,0,0,Poor,4.59,4.5,5.72,858.83,1
+UKL10262,Pithoragarh,Champawat,High-Hill,Mid-Hill,181.3,First Class,5,38.8,68.6,1.24,0,0,Good,4.61,2.8,4.62,837.76,1
+UKL10263,Nainital,Pithoragarh,Mid-Hill,High-Hill,317.4,Standard,5,67.8,72.1,0.81,0,0,Moderate,3.19,4.5,5.5,1036.86,1
+UKL10264,Pauri Garhwal,Uttarkashi,Mid-Hill,High-Hill,264.1,Standard,5,41.8,91.6,0.45,0,1,Good,4.51,4.5,4.89,894.4,1
+UKL10265,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,248.9,Standard,11,59.5,100.6,0.79,0,0,Moderate,4.6,4.5,5.65,964.58,1
+UKL10266,Chamoli,Udham Singh Nagar,High-Hill,Plain/Lower Hill,420.9,Second Class,9,74.9,44.6,0.71,0,1,Moderate,4.42,3.8,6.86,1364.55,1
+UKL10267,Pauri Garhwal,Pithoragarh,Mid-Hill,High-Hill,461.7,First Class,6,67.6,49.7,1.29,0,0,Good,4.62,2.8,4.94,1450.27,1
+UKL10268,Almora,Pithoragarh,Mid-Hill,High-Hill,401.5,Standard,4,94.5,103.0,0.79,0,0,Moderate,4.06,4.5,5.96,1144.4,1
+UKL10269,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,267.2,Standard,10,57.4,68.6,0.75,1,1,Good,4.33,4.5,6.51,992.53,1
+UKL10270,Champawat,Nainital,Mid-Hill,Mid-Hill,432.7,Standard,8,116.5,79.9,1.07,0,0,Moderate,4.76,4.5,6.34,1297.99,1
+UKL10271,Haridwar,Dehradun,Plain/Lower Hill,Plain/Lower Hill,66.2,Standard,9,62.8,63.0,1.14,0,0,Good,3.19,4.5,5.37,590.09,1
+UKL10272,Dehradun,Nainital,Plain/Lower Hill,Mid-Hill,235.8,First Class,10,77.7,65.2,1.03,0,1,Good,3.7,2.8,3.64,1085.42,1
+UKL10273,Haridwar,Chamoli,Plain/Lower Hill,High-Hill,169.5,Second Class,9,86.5,43.2,0.8,0,0,Good,3.43,3.8,5.31,912.23,1
+UKL10274,Almora,Nainital,Mid-Hill,Mid-Hill,274.7,Standard,8,109.6,89.5,1.49,1,0,Moderate,3.97,4.5,5.91,1006.6,1
+UKL10275,Chamoli,Nainital,High-Hill,Mid-Hill,170.7,First Class,4,66.0,98.3,0.69,0,0,Good,3.02,2.8,3.02,783.92,0
+UKL10276,Udham Singh Nagar,Haridwar,Plain/Lower Hill,Plain/Lower Hill,209.7,Standard,5,115.4,101.9,0.23,0,0,Moderate,4.33,4.5,4.54,715.35,0
+UKL10277,Pithoragarh,Nainital,High-Hill,Mid-Hill,529.8,Standard,4,91.6,117.7,0.75,0,0,Good,4.03,4.5,5.33,1435.83,1
+UKL10278,Almora,Haridwar,Mid-Hill,Plain/Lower Hill,315.5,Standard,8,71.6,77.0,1.32,1,0,Moderate,4.25,4.5,6.56,1039.35,1
+UKL10279,Champawat,Pithoragarh,Mid-Hill,High-Hill,552.5,Standard,3,43.2,47.4,1.03,0,1,Good,3.22,4.5,6.76,1346.57,1
+UKL10280,Nainital,Almora,Mid-Hill,Mid-Hill,253.0,Standard,7,84.7,45.2,1.57,0,0,Good,4.13,4.5,6.21,881.04,1
+UKL10281,Uttarkashi,Almora,High-Hill,Mid-Hill,323.2,Second Class,9,77.5,80.3,1.06,1,1,Good,3.64,3.8,6.07,1171.49,1
+UKL10282,Haridwar,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,181.5,First Class,8,97.2,69.6,0.86,0,0,Good,3.89,2.8,4.47,850.05,1
+UKL10283,Pithoragarh,Champawat,High-Hill,Mid-Hill,330.1,First Class,6,68.3,56.2,0.83,0,1,Good,4.53,2.8,3.68,1119.1,1
+UKL10284,Udham Singh Nagar,Almora,Plain/Lower Hill,Mid-Hill,112.8,Standard,4,96.2,85.3,1.69,0,0,Good,4.47,4.5,5.7,431.65,1
+UKL10285,Bageshwar,Pithoragarh,Mid-Hill,High-Hill,536.4,Standard,9,73.6,98.3,0.87,0,1,Good,4.22,4.5,6.45,1521.81,1
+UKL10286,Champawat,Nainital,Mid-Hill,Mid-Hill,438.5,Second Class,8,95.5,45.7,0.87,0,1,Moderate,4.39,3.8,6.4,1303.66,1
+UKL10287,Chamoli,Tehri Garhwal,High-Hill,Mid-Hill,431.3,Standard,12,51.0,97.1,1.67,1,1,Moderate,4.55,4.5,8.19,1412.41,1
+UKL10288,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,217.0,Standard,10,104.2,82.7,0.28,0,0,Good,4.56,4.5,5.18,769.98,1
+UKL10289,Champawat,Chamoli,Mid-Hill,High-Hill,384.0,Second Class,8,67.4,73.1,1.48,0,1,Good,3.34,3.8,5.53,1282.51,1
+UKL10290,Nainital,Uttarkashi,Mid-Hill,High-Hill,179.4,Standard,12,60.3,112.9,1.09,0,1,Moderate,3.8,4.5,7.01,827.68,1
+UKL10291,Tehri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,160.2,Standard,9,36.5,40.2,1.32,0,1,Moderate,4.33,4.5,6.02,777.72,1
+UKL10292,Chamoli,Nainital,High-Hill,Mid-Hill,442.2,Same Day,12,76.8,113.6,1.41,0,0,Good,4.71,1.2,3.32,1761.4125,1
+UKL10293,Bageshwar,Uttarkashi,Mid-Hill,High-Hill,301.2,Standard,9,81.8,114.8,1.38,0,0,Moderate,4.19,4.5,6.26,997.33,1
+UKL10294,Haridwar,Dehradun,Plain/Lower Hill,Plain/Lower Hill,138.1,Standard,8,55.1,69.5,0.83,0,0,Moderate,4.5,4.5,5.7,657.97,1
+UKL10295,Uttarkashi,Udham Singh Nagar,High-Hill,Plain/Lower Hill,312.6,Standard,8,67.2,47.6,1.25,0,0,Moderate,4.56,4.5,5.72,1064.39,1
+UKL10296,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,225.8,Same Day,8,93.9,106.4,1.08,0,0,Moderate,3.95,1.2,2.5,1282.59,1
+UKL10297,Chamoli,Tehri Garhwal,High-Hill,Mid-Hill,217.0,Second Class,10,112.4,56.6,1.1,0,1,Poor,3.75,3.8,6.49,1028.05,1
+UKL10298,Rudraprayag,Pithoragarh,High-Hill,High-Hill,385.8,Same Day,10,81.2,108.8,1.17,0,0,Moderate,4.02,1.2,3.52,1626.99,1
+UKL10299,Pithoragarh,Haridwar,High-Hill,Plain/Lower Hill,244.4,Standard,5,82.3,64.8,0.52,0,0,Moderate,4.37,4.5,5.72,760.2,1
+UKL10300,Pithoragarh,Champawat,High-Hill,Mid-Hill,407.1,Standard,7,91.2,67.2,1.09,0,0,Moderate,4.94,4.5,5.79,1210.89,1
+UKL10301,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,149.4,First Class,7,105.6,52.3,0.87,0,0,Good,3.59,2.8,3.11,839.24,1
+UKL10302,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,199.9,Second Class,12,56.7,117.3,1.58,0,0,Moderate,4.61,3.8,6.11,906.64,1
+UKL10303,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,327.0,Standard,10,41.6,72.0,1.53,0,1,Good,4.66,4.5,7.0,997.91,1
+UKL10304,Rudraprayag,Uttarkashi,High-Hill,High-Hill,264.3,Same Day,8,63.1,101.3,1.38,0,0,Moderate,4.55,1.2,3.03,1253.89,1
+UKL10305,Chamoli,Almora,High-Hill,Mid-Hill,324.4,First Class,7,49.2,29.6,0.2,0,0,Good,3.66,2.8,3.24,1235.55,1
+UKL10306,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,459.6,First Class,9,86.4,88.4,0.9,0,1,Poor,3.67,2.8,5.59,1509.55,1
+UKL10307,Champawat,Uttarkashi,Mid-Hill,High-Hill,390.2,Standard,10,80.9,65.1,1.95,0,1,Good,4.96,4.5,6.1,1207.33,1
+UKL10308,Chamoli,Almora,High-Hill,Mid-Hill,517.1,Standard,10,61.0,65.3,1.21,0,0,Good,4.31,4.5,6.29,1500.68,1
+UKL10309,Udham Singh Nagar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,251.8,Standard,7,92.1,81.0,1.72,0,1,Moderate,3.72,4.5,6.76,959.85,1
+UKL10310,Tehri Garhwal,Pithoragarh,Mid-Hill,High-Hill,465.2,Standard,6,83.5,68.7,0.85,0,1,Good,4.56,4.5,6.34,1271.86,1
+UKL10311,Haridwar,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,79.3,Second Class,7,113.5,60.8,0.62,0,0,Good,3.36,3.8,4.67,560.55,1
+UKL10312,Rudraprayag,Champawat,High-Hill,Mid-Hill,190.7,Second Class,5,70.1,79.1,1.11,0,0,Good,4.15,3.8,5.34,732.41,1
+UKL10313,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,206.9,Standard,13,117.2,78.2,0.69,0,1,Good,4.3,4.5,5.4,902.93,1
+UKL10314,Dehradun,Chamoli,Plain/Lower Hill,High-Hill,316.3,Second Class,13,71.9,53.2,1.12,0,0,Moderate,5.0,3.8,5.93,1282.96,1
+UKL10315,Uttarkashi,Bageshwar,High-Hill,Mid-Hill,240.8,Standard,6,51.0,85.8,1.04,0,0,Moderate,3.67,4.5,5.77,945.78,1
+UKL10316,Uttarkashi,Pithoragarh,High-Hill,High-Hill,227.7,Standard,8,73.1,43.5,1.44,0,1,Moderate,3.15,4.5,6.28,853.7,1
+UKL10317,Nainital,Rudraprayag,Mid-Hill,High-Hill,238.1,Second Class,5,54.8,62.3,0.94,0,0,Good,3.95,3.8,4.72,922.89,1
+UKL10318,Pauri Garhwal,Chamoli,Mid-Hill,High-Hill,240.7,Standard,9,82.1,60.5,1.6,0,1,Good,4.15,4.5,6.45,859.08,1
+UKL10319,Almora,Chamoli,Mid-Hill,High-Hill,235.7,Standard,4,73.0,15.0,1.58,0,0,Moderate,4.01,4.5,6.73,814.93,1
+UKL10320,Udham Singh Nagar,Rudraprayag,Plain/Lower Hill,High-Hill,311.8,First Class,6,101.9,79.6,1.39,1,1,Good,3.76,2.8,5.35,1134.71,1
+UKL10321,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,334.0,Standard,6,83.9,83.4,0.47,0,0,Moderate,3.49,4.5,5.77,1138.13,1
+UKL10322,Chamoli,Pithoragarh,High-Hill,High-Hill,356.4,Standard,10,72.8,62.5,0.48,0,1,Moderate,4.29,4.5,6.62,1087.68,1
+UKL10323,Champawat,Rudraprayag,Mid-Hill,High-Hill,248.8,Standard,5,94.8,15.0,0.95,0,0,Good,5.0,4.5,5.81,829.4,1
+UKL10324,Udham Singh Nagar,Haridwar,Plain/Lower Hill,Plain/Lower Hill,150.8,Standard,10,78.0,105.7,0.66,0,0,Poor,4.84,4.5,5.98,789.52,1
+UKL10325,Champawat,Almora,Mid-Hill,Mid-Hill,265.1,Second Class,4,88.3,87.1,1.46,1,0,Good,3.82,3.8,5.18,953.41,1
+UKL10326,Haridwar,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,205.8,Second Class,8,88.8,65.3,0.82,0,0,Good,4.05,3.8,4.22,854.46,1
+UKL10327,Tehri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,261.0,Standard,8,49.7,53.6,0.79,0,1,Good,4.0,4.5,6.01,894.6,1
+UKL10328,Haridwar,Dehradun,Plain/Lower Hill,Plain/Lower Hill,95.4,Second Class,9,128.7,95.3,0.64,0,1,Moderate,3.93,3.8,5.15,692.56,1
+UKL10329,Chamoli,Nainital,High-Hill,Mid-Hill,182.6,Second Class,11,54.3,77.9,1.68,0,0,Moderate,4.41,3.8,5.21,892.84,1
+UKL10330,Rudraprayag,Champawat,High-Hill,Mid-Hill,390.9,Standard,8,78.2,88.0,1.13,1,1,Poor,4.38,4.5,7.41,1249.46,1
+UKL10331,Udham Singh Nagar,Chamoli,Plain/Lower Hill,High-Hill,151.0,Second Class,6,86.8,55.2,1.18,0,1,Good,3.51,3.8,4.56,745.13,1
+UKL10332,Chamoli,Tehri Garhwal,High-Hill,Mid-Hill,267.6,Standard,6,93.4,89.8,1.1,0,1,Moderate,3.17,4.5,6.59,908.27,1
+UKL10333,Champawat,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,199.4,Standard,9,51.9,75.3,0.95,0,1,Good,3.83,4.5,6.13,799.01,1
+UKL10334,Tehri Garhwal,Champawat,Mid-Hill,Mid-Hill,351.8,Standard,8,79.7,53.1,1.14,0,0,Good,4.46,4.5,5.88,1003.65,1
+UKL10335,Dehradun,Pithoragarh,Plain/Lower Hill,High-Hill,320.7,Second Class,13,66.5,77.9,0.7,0,0,Moderate,4.68,3.8,5.26,1175.52,1
+UKL10336,Dehradun,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,189.5,Standard,6,51.5,90.9,0.54,0,0,Moderate,3.72,4.5,5.69,748.35,1
+UKL10337,Nainital,Champawat,Mid-Hill,Mid-Hill,310.0,First Class,6,36.6,18.6,0.52,0,1,Poor,4.58,2.8,4.88,1198.65,1
+UKL10338,Rudraprayag,Champawat,High-Hill,Mid-Hill,193.1,Second Class,6,89.6,46.4,1.43,0,1,Moderate,3.47,3.8,5.61,908.64,1
+UKL10339,Tehri Garhwal,Almora,Mid-Hill,Mid-Hill,237.8,Standard,5,102.4,15.0,1.22,0,0,Moderate,4.51,4.5,6.1,819.7,1
+UKL10340,Bageshwar,Dehradun,Mid-Hill,Plain/Lower Hill,231.3,Second Class,7,54.4,96.6,0.69,0,0,Moderate,4.8,3.8,5.29,879.61,1
+UKL10341,Uttarkashi,Tehri Garhwal,High-Hill,Mid-Hill,447.8,Standard,6,91.4,87.2,1.64,0,0,Moderate,3.35,4.5,5.77,1311.1,1
+UKL10342,Dehradun,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,56.0,Standard,8,64.1,67.0,0.34,0,1,Good,3.79,4.5,5.22,476.13,1
+UKL10343,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,287.4,First Class,4,106.2,56.3,1.0,0,0,Good,4.94,2.8,5.34,1068.47,1
+UKL10344,Haridwar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,356.3,Standard,10,81.5,68.7,0.86,0,0,Moderate,4.7,4.5,5.9,1144.97,1
+UKL10345,Nainital,Pauri Garhwal,Mid-Hill,Mid-Hill,593.1000000000001,Standard,8,99.8,74.5,1.48,0,0,Good,4.26,4.5,5.79,1077.6399999999999,1
+UKL10346,Chamoli,Pauri Garhwal,High-Hill,Mid-Hill,159.2,Same Day,8,34.5,98.0,0.98,0,0,Good,4.15,1.2,1.75,1052.36,1
+UKL10347,Pauri Garhwal,Tehri Garhwal,Mid-Hill,Mid-Hill,347.8,Standard,9,119.6,80.8,0.9,0,1,Good,4.38,4.5,6.85,1051.61,1
+UKL10348,Dehradun,Champawat,Plain/Lower Hill,Mid-Hill,102.3,First Class,11,55.5,46.4,0.79,0,1,Moderate,4.03,2.8,3.66,830.67,1
+UKL10349,Dehradun,Haridwar,Plain/Lower Hill,Plain/Lower Hill,211.3,Second Class,10,51.2,47.3,0.8,0,0,Moderate,3.63,3.8,4.49,951.31,1
+UKL10350,Pauri Garhwal,Uttarkashi,Mid-Hill,High-Hill,336.2,Standard,3,52.9,108.1,1.2,0,0,Moderate,4.28,4.5,5.81,1078.23,1
+UKL10351,Nainital,Haridwar,Mid-Hill,Plain/Lower Hill,369.6,Standard,6,110.8,56.5,1.27,0,0,Moderate,4.15,4.5,5.62,1059.89,1
+UKL10352,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,225.1,Standard,7,75.7,83.1,1.78,0,0,Good,3.36,4.5,6.0,870.35,1
+UKL10353,Pithoragarh,Chamoli,High-Hill,High-Hill,253.2,First Class,6,99.0,77.4,1.01,0,1,Good,4.27,2.8,4.4,1026.55,1
+UKL10354,Haridwar,Bageshwar,Plain/Lower Hill,Mid-Hill,298.0,Second Class,6,87.2,40.7,1.17,0,0,Poor,3.64,3.8,5.71,1084.34,1
+UKL10355,Uttarkashi,Tehri Garhwal,High-Hill,Mid-Hill,434.8,Standard,7,83.3,73.2,0.98,0,0,Good,4.04,4.5,6.18,1265.95,1
+UKL10356,Bageshwar,Pauri Garhwal,Mid-Hill,Mid-Hill,260.3,Standard,7,51.6,84.0,1.47,0,0,Poor,4.53,4.5,5.53,1015.84,1
+UKL10357,Uttarkashi,Udham Singh Nagar,High-Hill,Plain/Lower Hill,253.1,Same Day,5,64.2,80.9,1.25,0,0,Good,4.08,1.2,3.12,1248.64,1
+UKL10358,Rudraprayag,Uttarkashi,High-Hill,High-Hill,309.8,Standard,9,52.5,97.0,1.16,0,0,Good,4.04,4.5,6.68,1024.83,1
+UKL10359,Bageshwar,Champawat,Mid-Hill,Mid-Hill,302.0,Same Day,10,95.4,63.3,0.96,0,0,Moderate,2.9112499999999994,1.2,2.76,1311.2,1
+UKL10360,Pauri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,398.7,First Class,9,74.5,77.8,1.12,0,0,Good,3.8,2.8,3.75,1415.92,1
+UKL10361,Uttarkashi,Bageshwar,High-Hill,Mid-Hill,323.9,Standard,4,42.5,127.49999999999999,0.9,0,0,Poor,3.0,4.5,6.51,1077.84,1
+UKL10362,Almora,Pithoragarh,Mid-Hill,High-Hill,381.6,Standard,5,93.7,53.2,1.04,0,0,Good,4.12,4.5,6.2,1085.67,1
+UKL10363,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,317.0,Standard,12,88.7,87.7,0.46,0,0,Moderate,3.98,4.5,5.8,1137.05,1
+UKL10364,Champawat,Chamoli,Mid-Hill,High-Hill,286.2,Standard,10,76.8,64.0,1.55,0,0,Good,3.97,4.5,5.5,1077.6399999999999,1
+UKL10365,Rudraprayag,Champawat,High-Hill,Mid-Hill,197.4,First Class,5,87.6,78.0,0.93,0,0,Moderate,4.16,2.8,3.76,877.81,1
+UKL10366,Almora,Champawat,Mid-Hill,Mid-Hill,301.1,Standard,5,37.6,69.5,1.31,0,0,Good,4.14,4.5,5.46,894.2,1
+UKL10367,Udham Singh Nagar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,281.4,Second Class,12,65.8,90.5,0.69,0,0,Good,4.58,3.8,5.1,1126.6,1
+UKL10368,Nainital,Bageshwar,Mid-Hill,Mid-Hill,236.8,Standard,7,45.2,49.7,0.73,0,1,Moderate,3.95,4.5,6.17,743.67,1
+UKL10369,Dehradun,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,155.2,Second Class,8,68.7,91.2,0.96,1,0,Good,4.17,3.8,4.68,800.71,1
+UKL10370,Udham Singh Nagar,Almora,Plain/Lower Hill,Mid-Hill,276.3,First Class,5,70.2,89.0,1.16,0,0,Poor,4.21,2.8,4.27,1157.31,1
+UKL10371,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,259.2,Second Class,8,93.9,73.3,1.0,0,0,Moderate,4.16,3.8,5.52,1063.85,1
+UKL10372,Almora,Tehri Garhwal,Mid-Hill,Mid-Hill,258.6,First Class,9,61.8,89.3,1.16,0,1,Moderate,4.28,2.8,4.73,1077.6399999999999,1
+UKL10373,Udham Singh Nagar,Almora,Plain/Lower Hill,Mid-Hill,332.7,Standard,5,67.5,105.8,1.05,0,0,Moderate,3.82,4.5,5.5,985.39,1
+UKL10374,Haridwar,Pithoragarh,Plain/Lower Hill,High-Hill,301.1,Standard,10,61.7,90.4,1.2,0,0,Good,4.56,4.5,6.14,890.67,1
+UKL10375,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,209.1,Standard,9,35.3,21.3,1.26,0,1,Moderate,4.28,4.5,6.13,884.05,1
+UKL10376,Champawat,Chamoli,Mid-Hill,High-Hill,345.7,First Class,8,58.5,29.7,1.19,0,1,Moderate,2.9112499999999994,2.8,5.16,1296.88,1
+UKL10377,Almora,Uttarkashi,Mid-Hill,High-Hill,236.3,Second Class,9,86.9,71.2,1.42,0,0,Moderate,4.43,3.8,5.75,1006.13,1
+UKL10378,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,292.5,Standard,3,43.0,75.8,0.2,0,0,Good,3.46,4.5,4.58,827.31,0
+UKL10379,Chamoli,Pithoragarh,High-Hill,High-Hill,340.8,Second Class,9,74.7,87.8,1.11,1,1,Moderate,3.78,3.8,6.15,1223.88,1
+UKL10380,Dehradun,Uttarkashi,Plain/Lower Hill,High-Hill,363.6,Second Class,9,115.3,90.2,1.42,0,0,Good,3.61,3.8,5.01,1196.92,1
+UKL10381,Almora,Bageshwar,Mid-Hill,Mid-Hill,309.6,Standard,13,57.4,60.0,0.54,0,0,Good,4.23,4.5,5.51,1112.76,1
+UKL10382,Tehri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,329.6,Standard,8,84.4,69.1,0.2,0,0,Good,4.17,4.5,5.32,986.82,1
+UKL10383,Dehradun,Champawat,Plain/Lower Hill,Mid-Hill,217.1,Standard,8,50.1,89.8,0.93,0,0,Moderate,4.16,4.5,6.31,895.14,1
+UKL10384,Pauri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,141.9,Second Class,10,87.3,66.5,1.31,0,1,Good,3.74,3.8,5.08,793.97,1
+UKL10385,Haridwar,Uttarkashi,Plain/Lower Hill,High-Hill,211.2,Standard,15,61.1,63.6,0.37,0,0,Moderate,4.115,4.5,6.4,972.69,1
+UKL10386,Pithoragarh,Dehradun,High-Hill,Plain/Lower Hill,288.9,Standard,6,26.3,74.1,0.63,0,0,Moderate,4.1,4.5,5.73,897.81,1
+UKL10387,Almora,Champawat,Mid-Hill,Mid-Hill,341.6,First Class,11,47.0,87.6,1.29,0,0,Poor,3.8,2.8,5.09,1427.02,1
+UKL10388,Pauri Garhwal,Uttarkashi,Mid-Hill,High-Hill,460.2,First Class,8,74.6,79.7,0.92,0,0,Good,3.03,2.8,4.23,1424.26,1
+UKL10389,Almora,Tehri Garhwal,Mid-Hill,Mid-Hill,350.9,Standard,7,102.8,69.1,1.07,0,0,Good,3.75,4.5,6.4,1102.1,1
+UKL10390,Rudraprayag,Chamoli,High-Hill,High-Hill,264.0,First Class,6,44.7,73.0,1.18,0,0,Poor,3.63,2.8,3.99,1079.41,1
+UKL10391,Almora,Pauri Garhwal,Mid-Hill,Mid-Hill,309.0,Second Class,4,32.3,48.5,0.86,0,0,Moderate,4.15,3.8,5.92,1028.85,1
+UKL10392,Rudraprayag,Pauri Garhwal,High-Hill,Mid-Hill,374.2,Standard,8,100.8,79.9,0.96,1,0,Poor,3.51,4.5,7.35,1198.87,1
+UKL10393,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,216.9,First Class,6,64.1,95.1,1.2,0,0,Good,4.41,2.8,3.24,912.52,1
+UKL10394,Chamoli,Pauri Garhwal,High-Hill,Mid-Hill,324.3,First Class,4,64.6,85.3,1.0,0,1,Moderate,4.34,2.8,4.59,1181.23,1
+UKL10395,Bageshwar,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,266.2,Standard,12,97.7,53.6,1.85,0,0,Moderate,4.15,4.5,5.57,1108.03,1
+UKL10396,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,311.8,Second Class,5,35.9,73.0,0.23,0,0,Good,4.17,3.8,4.36,942.3,1
+UKL10397,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,402.7,Standard,5,82.0,81.3,0.99,0,1,Moderate,3.99,4.5,6.27,1081.47,1
+UKL10398,Uttarkashi,Rudraprayag,High-Hill,High-Hill,516.2,Standard,5,52.8,49.1,1.6,0,1,Good,3.79,4.5,6.77,1414.05,1
+UKL10399,Uttarkashi,Udham Singh Nagar,High-Hill,Plain/Lower Hill,293.0,Standard,9,77.0,81.8,0.64,0,0,Moderate,4.02,4.5,5.9,1050.89,1
+UKL10400,Tehri Garhwal,Rudraprayag,Mid-Hill,High-Hill,426.5,First Class,6,70.1,69.0,1.05,0,0,Good,4.64,2.8,4.16,1328.14,1
+UKL10401,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,278.4,Standard,5,69.2,99.5,0.94,0,0,Moderate,4.16,4.5,5.87,894.42,1
+UKL10402,Udham Singh Nagar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,223.7,First Class,8,94.6,89.4,0.77,1,0,Good,4.4,2.8,4.49,974.7,1
+UKL10403,Rudraprayag,Tehri Garhwal,High-Hill,Mid-Hill,324.4,Standard,3,86.9,91.9,1.15,0,0,Moderate,4.74,4.5,5.54,981.06,1
+UKL10404,Nainital,Tehri Garhwal,Mid-Hill,Mid-Hill,353.3,Second Class,6,71.6,41.4,1.34,0,0,Moderate,4.21,3.8,5.53,1144.41,1
+UKL10405,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,135.8,Second Class,12,90.7,78.1,0.73,0,0,Good,5.0,3.8,4.77,759.79,1
+UKL10406,Rudraprayag,Haridwar,High-Hill,Plain/Lower Hill,343.1,Standard,5,89.3,91.2,1.08,0,0,Moderate,3.21,4.5,7.04,1007.62,1
+UKL10407,Chamoli,Rudraprayag,High-Hill,High-Hill,226.7,First Class,10,76.6,77.9,1.62,0,0,Moderate,4.38,2.8,4.51,1137.78,1
+UKL10408,Almora,Chamoli,Mid-Hill,High-Hill,431.8,Standard,7,73.1,54.1,1.47,1,0,Good,4.13,4.5,6.56,1191.97,1
+UKL10409,Pauri Garhwal,Haridwar,Mid-Hill,Plain/Lower Hill,310.2,Standard,8,93.1,39.2,0.54,0,0,Moderate,4.27,4.5,6.0,951.37,1
+UKL10410,Nainital,Rudraprayag,Mid-Hill,High-Hill,216.4,Second Class,12,108.1,87.0,0.39,0,0,Moderate,3.78,3.8,4.71,996.23,1
+UKL10411,Pithoragarh,Tehri Garhwal,High-Hill,Mid-Hill,306.4,Same Day,7,99.3,63.0,0.61,0,0,Good,3.83,1.2,1.89,1350.51,1
+UKL10412,Pithoragarh,Tehri Garhwal,High-Hill,Mid-Hill,304.6,Same Day,8,66.9,57.5,0.91,0,0,Moderate,3.45,1.2,2.26,1332.73,1
+UKL10413,Champawat,Bageshwar,Mid-Hill,Mid-Hill,287.0,Standard,9,77.9,81.7,1.42,1,0,Good,3.57,4.5,5.92,945.45,1
+UKL10414,Uttarkashi,Pauri Garhwal,High-Hill,Mid-Hill,391.9,First Class,6,88.2,117.2,0.89,0,0,Good,3.73,2.8,3.61,1340.29,1
+UKL10415,Almora,Tehri Garhwal,Mid-Hill,Mid-Hill,149.6,First Class,9,89.0,102.1,0.69,0,0,Poor,3.67,2.8,3.64,1077.6399999999999,1
+UKL10416,Chamoli,Nainital,High-Hill,Mid-Hill,527.1,Standard,11,55.9,114.4,0.99,0,0,Moderate,4.15,4.5,5.91,1480.17,1
+UKL10417,Pithoragarh,Rudraprayag,High-Hill,High-Hill,253.3,Same Day,8,74.2,89.3,1.6,0,0,Moderate,4.68,1.2,3.38,1285.56,1
+UKL10418,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,407.5,Standard,8,93.9,63.3,0.97,0,1,Good,3.93,4.5,5.97,1156.94,1
+UKL10419,Chamoli,Dehradun,High-Hill,Plain/Lower Hill,172.1,Standard,5,72.3,51.1,1.52,1,0,Good,5.0,4.5,5.45,753.55,1
+UKL10420,Dehradun,Champawat,Plain/Lower Hill,Mid-Hill,276.4,Standard,9,50.1,58.7,0.87,0,1,Moderate,3.73,4.5,7.47,986.59,1
+UKL10421,Chamoli,Dehradun,High-Hill,Plain/Lower Hill,275.4,Second Class,6,22.3,57.3,0.85,0,0,Good,3.14,3.8,5.01,968.75,1
+UKL10422,Udham Singh Nagar,Nainital,Plain/Lower Hill,Mid-Hill,317.8,Standard,7,30.8,68.5,1.98,0,0,Good,4.14,4.5,5.49,1761.4125,1
+UKL10423,Pauri Garhwal,Haridwar,Mid-Hill,Plain/Lower Hill,170.1,Standard,9,115.4,46.6,0.74,0,1,Moderate,3.97,4.5,5.71,752.23,1
+UKL10424,Bageshwar,Nainital,Mid-Hill,Mid-Hill,283.9,Second Class,3,98.1,71.2,0.62,0,1,Poor,4.28,3.8,4.79,986.28,1
+UKL10425,Chamoli,Pithoragarh,High-Hill,High-Hill,270.8,Standard,6,56.5,52.8,1.44,0,1,Poor,4.74,4.5,6.54,947.54,1
+UKL10426,Almora,Bageshwar,Mid-Hill,Mid-Hill,324.3,Second Class,5,22.7,48.2,1.09,0,0,Moderate,4.96,3.8,4.92,1054.29,1
+UKL10427,Pithoragarh,Rudraprayag,High-Hill,High-Hill,484.1,Standard,8,76.6,52.9,1.45,0,0,Poor,4.38,4.5,6.26,1428.1,1
+UKL10428,Champawat,Nainital,Mid-Hill,Mid-Hill,403.4,Same Day,5,90.6,66.5,1.04,0,1,Moderate,3.55,1.2,2.64,1530.04,1
+UKL10429,Uttarkashi,Nainital,High-Hill,Mid-Hill,425.8,Standard,6,74.5,73.8,0.93,0,0,Good,4.17,4.5,5.96,1253.67,1
+UKL10430,Haridwar,Uttarkashi,Plain/Lower Hill,High-Hill,408.9,Standard,10,41.8,102.7,0.96,0,0,Good,4.69,4.5,6.58,1324.83,1
+UKL10431,Bageshwar,Champawat,Mid-Hill,Mid-Hill,353.5,Standard,7,53.4,90.7,1.2,0,0,Moderate,3.7,4.5,5.78,1102.21,1
+UKL10432,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,317.6,Standard,4,84.2,77.2,1.46,0,0,Poor,3.62,4.5,5.81,1000.66,1
+UKL10433,Chamoli,Rudraprayag,High-Hill,High-Hill,588.5,First Class,9,72.5,44.3,0.73,0,1,Moderate,4.58,2.8,5.68,1761.4125,1
+UKL10434,Udham Singh Nagar,Almora,Plain/Lower Hill,Mid-Hill,193.5,Second Class,10,107.7,115.0,2.03,0,0,Moderate,4.115,3.8,5.57,962.74,1
+UKL10435,Dehradun,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,210.7,Second Class,6,68.5,84.9,0.93,0,1,Good,5.0,3.8,4.65,844.19,1
+UKL10436,Tehri Garhwal,Almora,Mid-Hill,Mid-Hill,307.8,Standard,4,89.8,76.3,0.47,1,0,Moderate,4.78,4.5,6.1,942.09,1
+UKL10437,Tehri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,261.1,Standard,11,52.5,69.7,0.88,0,0,Moderate,3.55,4.5,5.83,961.72,1
+UKL10438,Champawat,Haridwar,Mid-Hill,Plain/Lower Hill,308.2,First Class,10,108.5,102.0,0.86,0,0,Poor,5.0,2.8,4.56,1290.92,1
+UKL10439,Champawat,Bageshwar,Mid-Hill,Mid-Hill,274.9,Standard,8,69.2,79.2,1.19,0,0,Moderate,3.84,4.5,5.86,1000.52,1
+UKL10440,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,450.3,Standard,8,63.2,83.7,0.76,1,0,Moderate,4.19,4.5,6.68,1354.06,1
+UKL10441,Udham Singh Nagar,Haridwar,Plain/Lower Hill,Plain/Lower Hill,171.7,Same Day,9,37.1,75.4,1.17,0,1,Good,3.39,1.2,2.89,1162.64,1
+UKL10442,Chamoli,Udham Singh Nagar,High-Hill,Plain/Lower Hill,408.3,Standard,8,75.8,40.0,1.05,0,0,Good,3.81,4.5,6.62,1176.95,1
+UKL10443,Champawat,Almora,Mid-Hill,Mid-Hill,293.2,Standard,8,65.4,75.7,1.22,0,0,Moderate,4.11,4.5,6.52,1014.75,1
+UKL10444,Pithoragarh,Haridwar,High-Hill,Plain/Lower Hill,236.0,Standard,7,77.4,57.9,0.65,0,0,Good,4.28,4.5,5.19,843.95,1
+UKL10445,Dehradun,Rudraprayag,Plain/Lower Hill,High-Hill,207.5,Standard,8,91.2,58.1,1.08,0,1,Moderate,5.0,4.5,6.48,823.86,1
+UKL10446,Bageshwar,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,305.6,Second Class,13,81.5,66.4,1.08,0,0,Moderate,4.37,3.8,6.31,1328.06,1
+UKL10447,Almora,Pithoragarh,Mid-Hill,High-Hill,269.2,First Class,6,85.7,60.6,1.7,0,0,Good,4.26,2.8,3.9,1099.04,1
+UKL10448,Pithoragarh,Uttarkashi,High-Hill,High-Hill,526.7,Same Day,4,105.4,66.1,1.87,0,0,Moderate,4.71,1.2,4.06,1755.39,1
+UKL10449,Champawat,Dehradun,Mid-Hill,Plain/Lower Hill,258.0,Second Class,8,86.5,66.0,1.04,0,1,Moderate,3.31,3.8,5.74,1025.77,1
+UKL10450,Rudraprayag,Pithoragarh,High-Hill,High-Hill,580.1,Second Class,9,69.6,66.4,1.32,0,0,Good,3.83,3.8,7.05,1717.59,1
+UKL10451,Almora,Bageshwar,Mid-Hill,Mid-Hill,187.4,Standard,7,60.5,62.9,1.25,0,0,Good,4.57,4.5,5.34,783.29,1
+UKL10452,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,433.9,Standard,9,41.0,86.6,1.53,0,0,Good,4.03,4.5,6.89,1357.99,1
+UKL10453,Champawat,Nainital,Mid-Hill,Mid-Hill,351.5,Standard,2,72.2,48.2,0.73,0,0,Moderate,3.64,4.5,6.21,986.37,1
+UKL10454,Nainital,Dehradun,Mid-Hill,Plain/Lower Hill,326.3,Standard,12,91.2,70.6,0.82,0,1,Moderate,4.115,4.5,5.73,1133.42,1
+UKL10455,Uttarkashi,Bageshwar,High-Hill,Mid-Hill,269.3,Standard,9,88.1,74.5,1.28,0,0,Poor,4.17,4.5,6.14,1061.41,1
+UKL10456,Bageshwar,Champawat,Mid-Hill,Mid-Hill,248.4,Standard,10,78.4,87.3,1.16,0,0,Good,4.54,4.5,5.62,909.42,1
+UKL10457,Uttarkashi,Pauri Garhwal,High-Hill,Mid-Hill,263.5,Second Class,7,69.1,99.6,1.11,0,0,Moderate,4.66,3.8,5.35,1022.96,1
+UKL10458,Chamoli,Pithoragarh,High-Hill,High-Hill,412.6,First Class,4,91.6,78.9,1.32,1,0,Moderate,4.01,2.8,5.14,1319.89,1
+UKL10459,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,404.7,Standard,10,83.8,96.3,1.22,0,1,Good,3.77,4.5,7.2,1169.72,1
+UKL10460,Pauri Garhwal,Haridwar,Mid-Hill,Plain/Lower Hill,229.9,Second Class,9,84.0,70.6,0.77,0,1,Moderate,3.91,3.8,5.37,989.67,1
+UKL10461,Uttarkashi,Udham Singh Nagar,High-Hill,Plain/Lower Hill,169.2,Standard,9,87.6,72.7,0.97,0,0,Good,3.79,4.5,5.54,721.97,1
+UKL10462,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,261.8,Standard,6,54.1,36.7,0.84,0,0,Moderate,4.32,4.5,6.42,860.26,1
+UKL10463,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,172.2,Standard,7,69.2,82.3,1.46,0,0,Moderate,4.115,4.5,6.26,700.98,1
+UKL10464,Rudraprayag,Haridwar,High-Hill,Plain/Lower Hill,481.9,Same Day,8,87.2,88.1,0.85,0,0,Moderate,4.08,1.2,3.42,1636.57,1
+UKL10465,Pauri Garhwal,Haridwar,Mid-Hill,Plain/Lower Hill,331.3,Second Class,6,100.0,68.6,0.2,0,0,Good,3.59,3.8,4.43,1040.59,1
+UKL10466,Nainital,Dehradun,Mid-Hill,Plain/Lower Hill,379.1,Standard,8,123.1,64.0,0.47,0,1,Good,3.96,4.5,5.74,1171.37,1
+UKL10467,Udham Singh Nagar,Bageshwar,Plain/Lower Hill,Mid-Hill,356.6,Standard,8,67.7,43.7,1.48,0,0,Good,4.74,4.5,6.0,1138.13,1
+UKL10468,Pauri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,200.7,Second Class,4,82.7,116.2,1.21,0,1,Good,4.37,3.8,5.35,852.52,1
+UKL10469,Dehradun,Chamoli,Plain/Lower Hill,High-Hill,310.6,First Class,9,63.9,90.7,1.08,0,0,Moderate,3.48,2.8,5.06,1159.09,1
+UKL10470,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,483.7,Standard,14,103.0,21.2,0.72,0,0,Moderate,4.115,4.5,6.63,1450.66,1
+UKL10471,Chamoli,Dehradun,High-Hill,Plain/Lower Hill,199.2,Second Class,7,95.4,110.6,0.7,0,1,Good,4.67,3.8,5.13,803.24,1
+UKL10472,Almora,Pithoragarh,Mid-Hill,High-Hill,415.5,Standard,9,107.4,60.4,1.66,0,0,Moderate,4.29,4.5,6.48,1282.39,1
+UKL10473,Almora,Rudraprayag,Mid-Hill,High-Hill,429.4,First Class,8,51.2,40.5,1.4,0,1,Good,3.94,2.8,5.1,1504.45,1
+UKL10474,Uttarkashi,Bageshwar,High-Hill,Mid-Hill,322.0,Same Day,6,60.7,48.3,1.58,0,0,Good,3.9,1.2,2.51,1294.9,1
+UKL10475,Chamoli,Tehri Garhwal,High-Hill,Mid-Hill,593.1000000000001,Standard,6,49.9,69.6,1.08,0,0,Good,4.39,4.5,5.9,847.34,1
+UKL10476,Chamoli,Champawat,High-Hill,Mid-Hill,399.2,Second Class,10,93.7,83.2,1.6,0,1,Good,3.78,3.8,6.01,1279.9,1
+UKL10477,Bageshwar,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,284.6,First Class,4,93.6,75.7,0.84,0,0,Moderate,3.59,2.8,3.72,1077.6399999999999,1
+UKL10478,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,139.0,Second Class,9,67.0,80.1,1.34,0,1,Good,4.17,3.8,5.0,749.09,1
+UKL10479,Pauri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,299.8,Second Class,14,86.9,66.4,0.69,0,0,Good,3.6,3.8,5.15,1118.39,1
+UKL10480,Udham Singh Nagar,Almora,Plain/Lower Hill,Mid-Hill,273.4,Standard,4,45.3,75.3,1.52,0,0,Good,4.12,4.5,5.89,766.78,1
+UKL10481,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,214.8,Second Class,4,76.7,34.2,0.71,0,0,Poor,3.62,3.8,5.19,890.96,1
+UKL10482,Tehri Garhwal,Chamoli,Mid-Hill,High-Hill,282.8,Standard,13,70.1,44.6,0.33,0,1,Good,4.14,4.5,5.72,933.82,1
+UKL10483,Dehradun,Nainital,Plain/Lower Hill,Mid-Hill,195.1,Standard,15,104.8,57.1,0.58,0,1,Good,4.3,4.5,6.29,848.72,1
+UKL10484,Champawat,Haridwar,Mid-Hill,Plain/Lower Hill,247.7,First Class,7,72.1,75.7,1.54,0,1,Good,3.69,2.8,5.71,1066.93,1
+UKL10485,Dehradun,Pithoragarh,Plain/Lower Hill,High-Hill,350.0,Second Class,7,86.1,53.1,1.39,0,0,Good,4.03,3.8,5.62,1221.8,1
+UKL10486,Udham Singh Nagar,Bageshwar,Plain/Lower Hill,Mid-Hill,169.8,Second Class,6,76.3,60.6,0.96,0,1,Good,4.21,3.8,4.99,820.03,1
+UKL10487,Uttarkashi,Haridwar,High-Hill,Plain/Lower Hill,255.8,Standard,7,44.8,84.5,1.11,0,0,Moderate,4.85,4.5,5.82,884.21,1
+UKL10488,Champawat,Almora,Mid-Hill,Mid-Hill,146.6,Second Class,7,69.8,29.5,0.31,0,1,Good,4.07,3.8,3.52,745.36,0
+UKL10489,Pithoragarh,Uttarkashi,High-Hill,High-Hill,528.0,Standard,7,59.1,91.8,1.81,0,0,Poor,4.72,4.5,6.85,1611.28,1
+UKL10490,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,184.6,Standard,7,82.0,52.5,1.26,0,0,Moderate,4.64,4.5,5.41,765.57,1
+UKL10491,Almora,Pithoragarh,Mid-Hill,High-Hill,261.7,Standard,8,59.8,55.1,1.35,0,1,Moderate,4.49,4.5,5.21,917.64,1
+UKL10492,Almora,Chamoli,Mid-Hill,High-Hill,223.1,Standard,13,53.5,78.8,0.66,1,0,Moderate,3.24,4.5,6.16,974.81,1
+UKL10493,Dehradun,Champawat,Plain/Lower Hill,Mid-Hill,229.9,First Class,4,49.3,72.8,1.0,0,0,Moderate,4.49,2.8,3.4,995.86,1
+UKL10494,Uttarkashi,Rudraprayag,High-Hill,High-Hill,205.8,Standard,10,64.2,42.7,2.04,0,0,Moderate,4.06,4.5,5.96,861.24,1
+UKL10495,Pithoragarh,Champawat,High-Hill,Mid-Hill,477.1,Second Class,13,81.0,59.8,1.19,0,1,Good,5.0,3.8,5.75,1531.39,1
+UKL10496,Champawat,Tehri Garhwal,Mid-Hill,Mid-Hill,318.5,Same Day,8,62.0,88.3,1.05,0,0,Good,4.01,1.2,2.12,1397.5,1
+UKL10497,Pithoragarh,Bageshwar,High-Hill,Mid-Hill,275.1,First Class,9,40.3,115.3,1.17,0,1,Good,4.28,2.8,4.17,1092.89,1
+UKL10498,Dehradun,Chamoli,Plain/Lower Hill,High-Hill,394.3,First Class,12,112.5,72.2,1.53,0,1,Good,3.64,2.8,4.26,1401.41,1
+UKL10499,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,476.6,Second Class,4,58.2,66.9,1.11,0,1,Poor,3.75,3.8,5.8,1391.37,1
+UKL10500,Uttarkashi,Nainital,High-Hill,Mid-Hill,223.7,Second Class,2,61.9,91.9,1.11,1,0,Moderate,3.86,3.8,5.91,882.93,1
+UKL10501,Tehri Garhwal,Pauri Garhwal,Mid-Hill,Mid-Hill,191.5,Second Class,8,73.0,60.5,0.62,0,1,Poor,4.33,3.8,5.76,802.29,1
+UKL10502,Uttarkashi,Almora,High-Hill,Mid-Hill,351.8,Standard,5,84.5,58.5,1.08,1,1,Good,3.7,4.5,6.31,1074.74,1
+UKL10503,Bageshwar,Tehri Garhwal,Mid-Hill,Mid-Hill,210.0,Same Day,15,25.5,83.6,0.93,0,0,Moderate,4.33,1.2,1.91,1271.17,1
+UKL10504,Champawat,Chamoli,Mid-Hill,High-Hill,482.6,Second Class,5,90.9,44.0,1.34,0,0,Moderate,4.23,3.8,5.72,1485.63,1
+UKL10505,Nainital,Chamoli,Mid-Hill,High-Hill,369.3,Standard,5,61.3,71.6,2.02,0,1,Poor,4.86,4.5,7.06,1220.05,1
+UKL10506,Udham Singh Nagar,Chamoli,Plain/Lower Hill,High-Hill,177.5,Standard,7,52.1,41.4,1.4,0,0,Good,4.08,4.5,6.12,799.32,1
+UKL10507,Almora,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,231.3,Second Class,8,65.7,39.7,1.16,0,0,Moderate,4.49,3.8,5.24,1039.8,1
+UKL10508,Pithoragarh,Uttarkashi,High-Hill,High-Hill,319.2,Same Day,16,83.2,17.0,1.32,0,0,Moderate,4.22,1.2,3.43,1597.65,1
+UKL10509,Champawat,Nainital,Mid-Hill,Mid-Hill,162.8,Second Class,9,65.3,60.7,0.57,1,0,Moderate,4.26,3.8,5.96,1761.4125,1
+UKL10510,Almora,Nainital,Mid-Hill,Mid-Hill,265.6,Standard,10,59.8,77.6,0.2,0,1,Good,3.91,4.5,5.32,925.7,1
+UKL10511,Nainital,Pithoragarh,Mid-Hill,High-Hill,432.1,Second Class,6,71.9,80.4,1.46,0,0,Moderate,4.16,3.8,5.36,1402.56,1
+UKL10512,Almora,Haridwar,Mid-Hill,Plain/Lower Hill,203.1,Standard,7,73.7,93.9,0.95,1,1,Moderate,3.21,4.5,6.1,790.83,1
+UKL10513,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,250.5,First Class,5,99.5,71.2,1.15,0,1,Good,4.71,2.8,3.58,970.75,1
+UKL10514,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,186.4,Second Class,5,111.3,80.8,0.59,1,0,Good,4.115,3.8,5.67,727.12,1
+UKL10515,Pauri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,233.5,First Class,8,111.0,68.2,1.73,0,1,Good,4.41,2.8,5.39,1024.27,1
+UKL10516,Chamoli,Dehradun,High-Hill,Plain/Lower Hill,368.2,First Class,6,67.3,25.3,1.08,0,0,Good,4.84,2.8,3.57,1226.15,1
+UKL10517,Nainital,Almora,Mid-Hill,Mid-Hill,234.9,Second Class,10,92.1,93.9,1.05,0,1,Moderate,4.25,3.8,5.05,999.56,1
+UKL10518,Pithoragarh,Nainital,High-Hill,Mid-Hill,362.8,Standard,5,76.8,74.5,1.11,0,0,Good,3.82,4.5,5.64,1029.05,1
+UKL10519,Udham Singh Nagar,Almora,Plain/Lower Hill,Mid-Hill,174.8,First Class,12,92.9,72.0,0.74,0,1,Moderate,4.54,2.8,4.11,998.26,1
+UKL10520,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,174.9,Second Class,6,28.4,82.9,0.85,0,0,Good,4.23,3.8,4.12,721.93,1
+UKL10521,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,466.0,Standard,10,88.6,77.5,0.82,0,0,Poor,3.74,4.5,6.65,1426.0,1
+UKL10522,Bageshwar,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,123.6,Standard,8,120.5,77.7,1.57,0,0,Poor,4.27,4.5,6.2,1761.4125,1
+UKL10523,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,228.7,Standard,9,97.9,56.6,0.88,1,0,Moderate,3.67,4.5,6.83,878.58,1
+UKL10524,Champawat,Tehri Garhwal,Mid-Hill,Mid-Hill,234.8,Standard,6,57.4,41.8,0.8,0,0,Poor,4.52,4.5,5.76,837.57,1
+UKL10525,Tehri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,202.8,Same Day,9,55.9,48.9,0.96,0,0,Moderate,3.99,1.2,2.3,1263.47,1
+UKL10526,Udham Singh Nagar,Rudraprayag,Plain/Lower Hill,High-Hill,197.5,Standard,12,84.4,50.2,0.74,0,0,Moderate,4.115,4.5,5.65,837.42,1
+UKL10527,Haridwar,Dehradun,Plain/Lower Hill,Plain/Lower Hill,155.6,First Class,5,97.4,95.4,0.93,0,1,Poor,3.4,2.8,4.74,904.97,1
+UKL10528,Dehradun,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,294.4,First Class,10,109.7,36.1,0.85,1,0,Moderate,4.21,2.8,4.4,1204.68,1
+UKL10529,Almora,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,247.5,First Class,16,70.6,44.3,0.63,0,0,Good,4.115,2.8,3.48,1254.95,1
+UKL10530,Rudraprayag,Chamoli,High-Hill,High-Hill,287.9,Second Class,6,81.5,48.3,1.46,0,0,Moderate,3.35,3.8,5.21,1048.57,1
+UKL10531,Nainital,Uttarkashi,Mid-Hill,High-Hill,321.0,Standard,10,90.4,77.3,0.6,0,1,Poor,4.115,4.5,6.67,1100.35,1
+UKL10532,Pithoragarh,Almora,High-Hill,Mid-Hill,376.4,Standard,6,88.4,69.0,1.1,0,0,Good,4.45,4.5,5.73,1214.85,1
+UKL10533,Tehri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,391.2,Standard,10,112.3,67.2,1.43,0,1,Moderate,3.95,4.5,6.78,1245.93,1
+UKL10534,Rudraprayag,Pithoragarh,High-Hill,High-Hill,178.6,Standard,9,78.3,69.7,0.76,1,0,Good,4.36,4.5,6.5,760.42,1
+UKL10535,Dehradun,Nainital,Plain/Lower Hill,Mid-Hill,182.1,First Class,11,75.4,92.0,0.33,0,0,Poor,4.06,2.8,3.25,1065.73,1
+UKL10536,Almora,Chamoli,Mid-Hill,High-Hill,546.7,Second Class,16,68.7,78.9,0.92,0,1,Moderate,4.07,3.8,7.11,1761.4125,1
+UKL10537,Uttarkashi,Champawat,High-Hill,Mid-Hill,232.8,Second Class,5,15.299999999999983,56.2,1.04,0,0,Moderate,4.115,3.8,4.68,947.88,1
+UKL10538,Tehri Garhwal,Chamoli,Mid-Hill,High-Hill,363.1,First Class,13,99.7,69.6,0.73,0,0,Good,3.56,2.8,3.74,1432.18,1
+UKL10539,Bageshwar,Nainital,Mid-Hill,Mid-Hill,321.8,Standard,7,107.5,87.9,1.27,0,0,Moderate,4.25,4.5,6.82,1072.02,1
+UKL10540,Udham Singh Nagar,Almora,Plain/Lower Hill,Mid-Hill,401.9,Second Class,12,92.0,48.9,1.55,0,0,Good,3.86,3.8,5.29,1296.38,1
+UKL10541,Bageshwar,Pauri Garhwal,Mid-Hill,Mid-Hill,364.3,Standard,7,58.3,27.6,0.86,0,0,Good,4.28,4.5,6.53,1032.47,1
+UKL10542,Udham Singh Nagar,Pithoragarh,Plain/Lower Hill,High-Hill,426.8,First Class,11,58.8,70.1,0.94,0,1,Poor,4.115,2.8,5.51,1501.6,1
+UKL10543,Tehri Garhwal,Almora,Mid-Hill,Mid-Hill,292.1,Second Class,5,71.6,92.2,1.08,0,0,Good,3.79,3.8,4.91,889.49,1
+UKL10544,Pauri Garhwal,Uttarkashi,Mid-Hill,High-Hill,406.5,First Class,8,66.3,92.8,0.84,0,0,Moderate,4.27,2.8,4.71,1407.65,1
+UKL10545,Pauri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,345.8,Second Class,7,38.9,69.6,0.74,1,1,Moderate,4.01,3.8,5.58,1181.45,1
+UKL10546,Nainital,Rudraprayag,Mid-Hill,High-Hill,468.0,Second Class,5,99.7,56.6,1.08,0,0,Good,4.27,3.8,4.88,1281.52,1
+UKL10547,Dehradun,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,185.0,Standard,8,98.9,53.9,1.4,0,0,Good,4.64,4.5,5.38,718.72,1
+UKL10548,Pauri Garhwal,Champawat,Mid-Hill,Mid-Hill,255.5,Standard,13,53.3,91.9,1.34,0,0,Moderate,4.98,4.5,6.28,1050.75,1
+UKL10549,Pauri Garhwal,Uttarkashi,Mid-Hill,High-Hill,455.4,Standard,11,99.6,93.7,0.97,0,1,Good,5.0,4.5,6.62,1329.41,1
+UKL10550,Champawat,Nainital,Mid-Hill,Mid-Hill,255.2,Standard,12,62.1,87.9,0.89,0,0,Moderate,4.66,4.5,6.65,986.55,1
+UKL10551,Pithoragarh,Rudraprayag,High-Hill,High-Hill,214.2,Standard,7,106.4,26.4,1.54,0,1,Moderate,3.99,4.5,6.28,798.89,1
+UKL10552,Uttarkashi,Chamoli,High-Hill,High-Hill,262.5,Standard,8,60.3,58.4,1.72,0,0,Moderate,3.36,4.5,5.29,914.0,1
+UKL10553,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,95.1,Standard,12,125.0,90.9,1.1,0,0,Good,3.88,4.5,5.99,632.16,1
+UKL10554,Pithoragarh,Pauri Garhwal,High-Hill,Mid-Hill,387.5,Standard,12,26.5,99.7,0.39,0,0,Good,2.9112499999999994,4.5,6.36,1175.42,1
+UKL10555,Rudraprayag,Champawat,High-Hill,Mid-Hill,349.3,Second Class,9,110.5,97.9,1.34,0,0,Good,4.39,3.8,4.98,1149.1,1
+UKL10556,Nainital,Pithoragarh,Mid-Hill,High-Hill,393.8,Second Class,10,76.5,65.3,0.42,0,0,Moderate,4.38,3.8,5.49,1276.29,1
+UKL10557,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,423.8,Standard,8,61.1,52.4,1.59,0,1,Moderate,4.59,4.5,7.2,1311.15,1
+UKL10558,Tehri Garhwal,Champawat,Mid-Hill,Mid-Hill,244.1,Standard,11,94.7,31.4,1.05,0,0,Good,4.86,4.5,6.07,905.67,1
+UKL10559,Rudraprayag,Almora,High-Hill,Mid-Hill,450.7,Standard,2,87.9,117.4,0.88,0,0,Good,4.23,4.5,6.13,1222.74,1
+UKL10560,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,321.8,First Class,10,55.7,50.3,1.15,0,1,Moderate,4.76,2.8,5.15,1202.97,1
+UKL10561,Dehradun,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,300.8,Standard,9,47.8,68.4,0.56,1,0,Moderate,4.06,4.5,5.53,1083.12,1
+UKL10562,Almora,Chamoli,Mid-Hill,High-Hill,320.3,First Class,8,69.2,105.2,1.37,0,0,Moderate,4.1,2.8,4.4,1222.64,1
+UKL10563,Rudraprayag,Nainital,High-Hill,Mid-Hill,366.6,Second Class,8,81.2,83.1,1.23,0,1,Poor,3.66,3.8,6.3,1356.03,1
+UKL10564,Dehradun,Pithoragarh,Plain/Lower Hill,High-Hill,313.3,Standard,9,118.0,71.5,0.65,0,1,Moderate,5.0,4.5,6.64,1023.32,1
+UKL10565,Udham Singh Nagar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,259.6,First Class,6,86.8,73.3,1.05,0,0,Good,3.78,2.8,3.98,973.51,1
+UKL10566,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,377.8,Standard,8,31.2,77.7,1.26,0,0,Moderate,3.89,4.5,6.17,1214.86,1
+UKL10567,Udham Singh Nagar,Haridwar,Plain/Lower Hill,Plain/Lower Hill,160.7,Standard,8,64.1,68.4,1.04,0,0,Moderate,3.58,4.5,5.53,717.86,1
+UKL10568,Pithoragarh,Chamoli,High-Hill,High-Hill,452.4,First Class,8,69.1,16.4,1.32,0,1,Good,4.05,2.8,5.28,1480.94,1
+UKL10569,Bageshwar,Rudraprayag,Mid-Hill,High-Hill,293.2,Second Class,8,94.3,78.8,0.77,0,1,Moderate,4.65,3.8,5.81,986.11,1
+UKL10570,Champawat,Bageshwar,Mid-Hill,Mid-Hill,392.3,Standard,4,81.7,37.8,1.0,0,0,Moderate,4.13,4.5,6.05,1177.73,1
+UKL10571,Dehradun,Champawat,Plain/Lower Hill,Mid-Hill,244.3,First Class,9,104.0,57.5,0.93,0,0,Moderate,4.25,2.8,3.67,1094.65,1
+UKL10572,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,265.2,Second Class,6,44.4,51.9,1.44,1,0,Moderate,4.58,3.8,5.13,952.45,1
+UKL10573,Udham Singh Nagar,Bageshwar,Plain/Lower Hill,Mid-Hill,379.4,First Class,6,66.7,63.6,1.12,0,1,Good,3.87,2.8,4.47,1271.59,1
+UKL10574,Tehri Garhwal,Almora,Mid-Hill,Mid-Hill,234.0,Standard,8,79.7,43.1,1.12,0,0,Good,4.13,4.5,4.65,797.43,0
+UKL10575,Dehradun,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,172.3,Standard,7,93.6,66.6,0.84,0,0,Good,3.84,4.5,5.65,707.03,1
+UKL10576,Almora,Pauri Garhwal,Mid-Hill,Mid-Hill,349.1,Standard,5,63.5,83.7,0.97,0,0,Good,4.115,4.5,6.17,1013.68,1
+UKL10577,Champawat,Tehri Garhwal,Mid-Hill,Mid-Hill,327.1,Standard,3,34.2,55.6,1.27,0,0,Good,3.65,4.5,5.51,919.86,1
+UKL10578,Rudraprayag,Udham Singh Nagar,High-Hill,Plain/Lower Hill,325.2,Standard,6,24.3,68.3,0.92,0,0,Moderate,4.05,4.5,5.45,937.84,1
+UKL10579,Pithoragarh,Udham Singh Nagar,High-Hill,Plain/Lower Hill,297.8,Second Class,10,41.0,51.1,0.7,0,0,Good,3.77,3.8,4.98,1011.3,1
+UKL10580,Uttarkashi,Haridwar,High-Hill,Plain/Lower Hill,317.4,First Class,14,78.5,51.4,1.56,0,0,Moderate,4.24,2.8,3.41,1384.48,1
+UKL10581,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,267.9,First Class,5,109.4,83.7,0.83,0,0,Good,4.95,2.8,4.26,982.45,1
+UKL10582,Pauri Garhwal,Uttarkashi,Mid-Hill,High-Hill,245.9,Second Class,11,53.5,91.8,1.58,1,0,Moderate,3.69,3.8,6.18,1158.82,1
+UKL10583,Haridwar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,198.9,Same Day,6,65.8,78.1,0.48,0,1,Good,4.27,1.2,2.38,1058.26,1
+UKL10584,Haridwar,Bageshwar,Plain/Lower Hill,Mid-Hill,197.8,First Class,5,60.9,58.2,1.44,0,1,Moderate,4.57,2.8,4.7,855.28,1
+UKL10585,Nainital,Pithoragarh,Mid-Hill,High-Hill,298.5,Second Class,8,111.2,50.4,1.56,0,0,Good,4.27,3.8,5.44,1022.4,1
+UKL10586,Pauri Garhwal,Uttarkashi,Mid-Hill,High-Hill,334.0,Standard,11,86.2,75.0,1.11,0,0,Moderate,3.44,4.5,6.64,1135.12,1
+UKL10587,Champawat,Pauri Garhwal,Mid-Hill,Mid-Hill,262.2,First Class,7,86.2,40.9,2.04,0,0,Good,4.28,2.8,4.68,1088.62,1
+UKL10588,Udham Singh Nagar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,314.6,First Class,7,72.9,77.7,0.94,0,0,Moderate,5.0,2.8,5.12,1205.37,1
+UKL10589,Pithoragarh,Rudraprayag,High-Hill,High-Hill,435.7,Second Class,7,91.4,113.1,1.08,0,0,Moderate,4.38,3.8,4.81,1398.39,1
+UKL10590,Uttarkashi,Haridwar,High-Hill,Plain/Lower Hill,279.0,Second Class,10,67.6,75.8,1.14,0,1,Good,3.63,3.8,4.69,1033.65,1
+UKL10591,Pithoragarh,Rudraprayag,High-Hill,High-Hill,456.8,First Class,9,37.5,72.4,0.92,1,0,Poor,3.5,2.8,5.73,1551.21,1
+UKL10592,Haridwar,Bageshwar,Plain/Lower Hill,Mid-Hill,241.1,Same Day,10,92.4,79.6,0.79,0,0,Good,3.9,1.2,1.8,1310.79,1
+UKL10593,Nainital,Tehri Garhwal,Mid-Hill,Mid-Hill,414.0,Standard,7,65.1,68.1,1.01,0,0,Poor,4.3,4.5,6.45,1253.78,1
+UKL10594,Dehradun,Haridwar,Plain/Lower Hill,Plain/Lower Hill,133.2,Second Class,8,88.2,72.8,0.94,0,0,Moderate,3.97,3.8,4.91,739.16,1
+UKL10595,Uttarkashi,Almora,High-Hill,Mid-Hill,427.2,Second Class,8,100.8,104.7,0.69,0,0,Good,5.0,3.8,4.58,1276.86,1
+UKL10596,Rudraprayag,Udham Singh Nagar,High-Hill,Plain/Lower Hill,405.0,Same Day,8,83.6,97.0,0.9,0,0,Moderate,3.69,1.2,3.04,1506.54,1
+UKL10597,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,298.3,Standard,5,59.8,56.1,1.36,0,0,Good,4.12,4.5,5.84,878.4,1
+UKL10598,Bageshwar,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,230.1,First Class,7,56.7,80.5,1.14,0,0,Good,3.67,2.8,4.52,1008.2,1
+UKL10599,Bageshwar,Uttarkashi,Mid-Hill,High-Hill,202.2,Standard,10,95.6,92.0,1.76,0,0,Poor,4.55,4.5,6.72,974.77,1
+UKL10600,Pithoragarh,Almora,High-Hill,Mid-Hill,409.0,Same Day,12,87.2,47.6,0.55,0,0,Moderate,4.54,1.2,2.43,1607.35,1
+UKL10601,Dehradun,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,145.9,Same Day,7,82.7,75.9,1.18,0,1,Good,4.45,1.2,2.2,1037.65,1
+UKL10602,Dehradun,Nainital,Plain/Lower Hill,Mid-Hill,185.6,Standard,7,103.7,77.8,0.46,0,1,Moderate,3.56,4.5,5.74,779.35,1
+UKL10603,Dehradun,Rudraprayag,Plain/Lower Hill,High-Hill,343.7,First Class,5,76.7,73.8,1.16,0,0,Moderate,4.81,2.8,5.09,1268.34,1
+UKL10604,Champawat,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,241.0,Same Day,11,45.6,47.8,1.09,0,0,Moderate,4.74,1.2,3.07,1263.62,1
+UKL10605,Chamoli,Tehri Garhwal,High-Hill,Mid-Hill,296.9,First Class,7,65.1,25.8,0.37,0,0,Good,3.94,2.8,3.62,1070.31,1
+UKL10606,Dehradun,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,254.6,Standard,8,92.6,111.7,1.45,0,0,Good,3.69,4.5,5.5,871.14,1
+UKL10607,Udham Singh Nagar,Almora,Plain/Lower Hill,Mid-Hill,266.0,Same Day,6,68.1,68.8,0.87,0,0,Good,3.49,1.2,2.61,1186.02,1
+UKL10608,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,216.9,Standard,8,82.7,63.8,0.62,0,0,Moderate,3.51,4.5,5.94,824.74,1
+UKL10609,Almora,Tehri Garhwal,Mid-Hill,Mid-Hill,306.7,Standard,16,53.5,50.6,1.46,0,0,Good,4.68,4.5,5.71,1194.21,1
+UKL10610,Rudraprayag,Almora,High-Hill,Mid-Hill,498.5,Standard,8,68.9,71.7,1.12,0,0,Good,4.27,4.5,5.65,1311.13,1
+UKL10611,Pithoragarh,Udham Singh Nagar,High-Hill,Plain/Lower Hill,308.6,First Class,10,70.7,71.2,1.04,0,1,Good,3.46,2.8,4.32,1227.86,1
+UKL10612,Bageshwar,Dehradun,Mid-Hill,Plain/Lower Hill,305.4,Standard,3,85.7,70.6,1.55,0,0,Good,4.48,4.5,6.13,920.38,1
+UKL10613,Rudraprayag,Champawat,High-Hill,Mid-Hill,256.2,Standard,10,92.0,51.2,1.08,0,1,Moderate,3.42,4.5,6.85,1042.28,1
+UKL10614,Pithoragarh,Uttarkashi,High-Hill,High-Hill,366.9,Second Class,9,74.9,58.9,1.29,0,0,Moderate,3.63,3.8,5.0,1226.09,1
+UKL10615,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,377.4,Second Class,5,73.7,44.5,1.62,0,0,Poor,4.56,3.8,6.34,1267.45,1
+UKL10616,Nainital,Chamoli,Mid-Hill,High-Hill,395.9,Standard,8,47.9,115.8,1.08,0,1,Good,4.41,4.5,6.38,1172.85,1
+UKL10617,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,269.2,Standard,3,56.9,69.0,1.01,0,0,Poor,3.95,4.5,6.03,906.31,1
+UKL10618,Almora,Tehri Garhwal,Mid-Hill,Mid-Hill,185.0,First Class,10,69.7,72.3,0.92,0,0,Poor,4.01,2.8,4.1,992.94,1
+UKL10619,Tehri Garhwal,Almora,Mid-Hill,Mid-Hill,264.1,Second Class,10,77.6,63.8,1.55,0,1,Moderate,3.77,3.8,6.0,1128.51,1
+UKL10620,Haridwar,Pithoragarh,Plain/Lower Hill,High-Hill,322.5,Same Day,8,73.9,70.0,1.16,0,0,Good,4.16,1.2,2.3,1416.17,1
+UKL10621,Rudraprayag,Almora,High-Hill,Mid-Hill,265.6,First Class,9,88.0,75.1,0.85,1,0,Good,4.95,2.8,4.3,1077.48,1
+UKL10622,Haridwar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,255.7,First Class,6,88.3,68.4,0.87,0,0,Poor,3.97,2.8,4.35,982.4,1
+UKL10623,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,305.8,Second Class,8,60.2,78.4,0.94,0,1,Moderate,4.83,3.8,5.53,1084.77,1
+UKL10624,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,385.6,Standard,8,90.4,54.9,0.86,0,0,Poor,3.61,4.5,6.57,1273.35,1
+UKL10625,Almora,Chamoli,Mid-Hill,High-Hill,165.3,Standard,6,72.7,61.2,1.44,0,0,Good,4.52,4.5,6.46,719.41,1
+UKL10626,Pauri Garhwal,Tehri Garhwal,Mid-Hill,Mid-Hill,307.8,Second Class,4,99.6,92.0,0.84,1,0,Moderate,4.25,3.8,5.78,1095.32,1
+UKL10627,Chamoli,Bageshwar,High-Hill,Mid-Hill,476.9,Second Class,7,69.1,80.3,1.12,0,1,Good,3.99,3.8,5.8,1428.23,1
+UKL10628,Nainital,Uttarkashi,Mid-Hill,High-Hill,455.6,First Class,7,78.8,72.8,0.99,0,0,Moderate,4.31,2.8,4.75,1488.48,1
+UKL10629,Pauri Garhwal,Uttarkashi,Mid-Hill,High-Hill,410.7,Same Day,7,65.0,127.3,1.37,0,1,Poor,4.82,1.2,3.85,1608.56,1
+UKL10630,Pauri Garhwal,Pithoragarh,Mid-Hill,High-Hill,485.9,Standard,8,98.9,68.2,1.11,0,0,Moderate,4.37,4.5,6.75,1405.82,1
+UKL10631,Uttarkashi,Chamoli,High-Hill,High-Hill,350.7,Same Day,10,73.2,27.6,1.25,1,0,Moderate,3.55,1.2,3.33,1482.55,1
+UKL10632,Nainital,Bageshwar,Mid-Hill,Mid-Hill,410.9,First Class,6,63.0,44.2,0.61,0,0,Moderate,3.14,2.8,3.5,1344.3,1
+UKL10633,Champawat,Haridwar,Mid-Hill,Plain/Lower Hill,278.3,Same Day,6,86.4,89.7,1.16,0,0,Good,4.5,1.2,1.89,1246.41,1
+UKL10634,Bageshwar,Haridwar,Mid-Hill,Plain/Lower Hill,199.8,Second Class,10,50.8,51.0,1.44,0,0,Moderate,5.0,3.8,5.03,975.49,1
+UKL10635,Chamoli,Almora,High-Hill,Mid-Hill,418.8,Standard,2,26.7,49.2,1.38,0,1,Moderate,4.03,4.5,7.23,1131.06,1
+UKL10636,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,284.5,Same Day,7,50.8,70.3,1.27,0,0,Moderate,4.26,1.2,3.54,1264.53,1
+UKL10637,Pauri Garhwal,Chamoli,Mid-Hill,High-Hill,322.2,Standard,11,81.2,72.6,1.24,0,0,Moderate,4.49,4.5,6.93,1161.14,1
+UKL10638,Chamoli,Dehradun,High-Hill,Plain/Lower Hill,139.6,First Class,5,83.1,58.2,1.15,1,0,Poor,4.51,2.8,4.34,924.64,1
+UKL10639,Pithoragarh,Almora,High-Hill,Mid-Hill,209.2,Second Class,6,58.0,61.7,1.5,0,0,Moderate,4.18,3.8,5.24,971.4,1
+UKL10640,Champawat,Tehri Garhwal,Mid-Hill,Mid-Hill,373.0,Same Day,3,91.8,34.2,0.26,1,0,Moderate,4.09,1.2,2.69,1427.14,1
+UKL10641,Chamoli,Haridwar,High-Hill,Plain/Lower Hill,239.9,Standard,9,60.1,78.1,1.29,1,1,Moderate,4.02,4.5,7.02,919.18,1
+UKL10642,Pauri Garhwal,Nainital,Mid-Hill,Mid-Hill,348.1,Second Class,10,72.7,56.0,0.8,0,0,Moderate,4.0,3.8,5.26,1216.35,1
+UKL10643,Champawat,Bageshwar,Mid-Hill,Mid-Hill,278.8,First Class,7,124.6,70.4,0.84,0,0,Moderate,3.12,2.8,4.96,1121.44,1
+UKL10644,Tehri Garhwal,Champawat,Mid-Hill,Mid-Hill,316.0,Second Class,7,76.4,117.9,1.56,0,0,Poor,3.79,3.8,5.61,1221.32,1
+UKL10645,Chamoli,Nainital,High-Hill,Mid-Hill,293.0,Standard,10,50.9,63.4,0.8,0,1,Moderate,4.43,4.5,5.94,980.9,1
+UKL10646,Nainital,Haridwar,Mid-Hill,Plain/Lower Hill,197.0,Standard,10,45.3,90.1,0.33,0,0,Good,4.29,4.5,4.92,804.12,1
+UKL10647,Uttarkashi,Pithoragarh,High-Hill,High-Hill,365.0,Second Class,6,26.3,68.9,1.03,0,0,Good,4.07,3.8,4.76,1186.59,1
+UKL10648,Almora,Uttarkashi,Mid-Hill,High-Hill,148.0,Standard,8,103.1,89.4,1.3,0,0,Good,4.12,4.5,6.21,659.58,1
+UKL10649,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,150.2,Second Class,8,86.8,41.8,1.93,1,0,Good,3.95,3.8,6.27,725.04,1
+UKL10650,Pauri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,151.4,First Class,11,64.6,78.5,1.12,0,1,Moderate,4.6,2.8,4.17,1024.34,1
+UKL10651,Pauri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,393.9,Standard,7,101.3,63.3,0.82,0,0,Moderate,4.32,4.5,6.18,1137.61,1
+UKL10652,Udham Singh Nagar,Pithoragarh,Plain/Lower Hill,High-Hill,425.4,First Class,11,78.8,77.0,0.99,0,1,Good,3.96,2.8,4.6,1435.82,1
+UKL10653,Champawat,Haridwar,Mid-Hill,Plain/Lower Hill,289.7,Second Class,12,60.8,87.2,0.98,0,0,Moderate,5.0,3.8,4.65,1135.98,1
+UKL10654,Pauri Garhwal,Chamoli,Mid-Hill,High-Hill,198.0,Second Class,6,51.9,41.2,0.38,0,0,Poor,4.34,3.8,5.37,777.85,1
+UKL10655,Bageshwar,Chamoli,Mid-Hill,High-Hill,321.8,Standard,7,74.4,52.0,1.1,0,1,Poor,4.08,4.5,6.87,1064.63,1
+UKL10656,Tehri Garhwal,Almora,Mid-Hill,Mid-Hill,323.1,First Class,14,73.1,54.2,1.7,0,0,Good,3.75,2.8,4.58,1421.72,1
+UKL10657,Almora,Rudraprayag,Mid-Hill,High-Hill,489.3,Standard,4,65.7,99.4,1.69,0,0,Moderate,4.4,4.5,6.72,1343.78,1
+UKL10658,Chamoli,Dehradun,High-Hill,Plain/Lower Hill,353.5,Second Class,8,78.7,122.0,0.56,0,0,Moderate,3.78,3.8,5.7,1171.2,1
+UKL10659,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,159.0,Standard,5,96.1,33.7,1.32,0,1,Moderate,3.92,4.5,6.02,637.68,1
+UKL10660,Bageshwar,Rudraprayag,Mid-Hill,High-Hill,219.9,Standard,9,44.2,76.2,1.39,1,0,Good,4.58,4.5,6.72,857.9,1
+UKL10661,Almora,Chamoli,Mid-Hill,High-Hill,495.2,Same Day,10,72.6,122.2,1.84,0,0,Moderate,4.115,1.2,3.95,1761.4125,1
+UKL10662,Almora,Uttarkashi,Mid-Hill,High-Hill,161.9,Standard,7,70.3,79.0,1.36,0,0,Moderate,3.39,4.5,5.89,812.44,1
+UKL10663,Uttarkashi,Dehradun,High-Hill,Plain/Lower Hill,222.9,Standard,6,135.50000000000003,71.2,0.78,0,0,Moderate,5.0,4.5,5.99,812.95,1
+UKL10664,Bageshwar,Almora,Mid-Hill,Mid-Hill,320.1,Standard,9,85.7,90.7,0.87,1,0,Good,4.26,4.5,5.69,1015.35,1
+UKL10665,Chamoli,Pauri Garhwal,High-Hill,Mid-Hill,348.2,Standard,7,43.3,62.1,0.8,1,0,Poor,3.76,4.5,6.68,1104.19,1
+UKL10666,Champawat,Chamoli,Mid-Hill,High-Hill,348.2,First Class,12,57.7,29.5,0.59,0,0,Moderate,4.5,2.8,4.62,1327.77,1
+UKL10667,Uttarkashi,Pithoragarh,High-Hill,High-Hill,349.3,Second Class,5,88.4,48.3,1.18,0,0,Good,4.58,3.8,4.74,1087.0,1
+UKL10668,Champawat,Almora,Mid-Hill,Mid-Hill,375.0,First Class,11,66.5,70.1,1.13,0,1,Moderate,3.92,2.8,5.15,1292.93,1
+UKL10669,Uttarkashi,Haridwar,High-Hill,Plain/Lower Hill,349.6,Standard,10,102.5,67.8,0.79,0,0,Moderate,4.71,4.5,5.91,1139.33,1
+UKL10670,Nainital,Almora,Mid-Hill,Mid-Hill,203.8,Standard,8,88.9,121.3,0.81,0,0,Moderate,4.3,4.5,6.5,794.25,1
+UKL10671,Uttarkashi,Pithoragarh,High-Hill,High-Hill,399.7,Standard,12,29.1,94.9,1.3,0,0,Good,4.7,4.5,5.66,1170.01,1
+UKL10672,Pithoragarh,Almora,High-Hill,Mid-Hill,325.2,First Class,12,18.9,88.8,1.76,1,0,Good,2.9112499999999994,2.8,4.56,1421.86,1
+UKL10673,Dehradun,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,101.7,Standard,5,82.5,29.9,0.77,0,1,Moderate,4.67,4.5,5.55,576.28,1
+UKL10674,Haridwar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,262.4,Standard,4,59.0,79.9,1.0,0,0,Moderate,4.35,4.5,5.43,919.89,1
+UKL10675,Chamoli,Haridwar,High-Hill,Plain/Lower Hill,305.0,Same Day,8,95.4,92.4,1.05,0,1,Good,4.45,1.2,1.88,1334.68,1
+UKL10676,Bageshwar,Uttarkashi,Mid-Hill,High-Hill,445.5,Second Class,9,67.7,40.1,0.94,0,1,Good,4.23,3.8,5.4,1302.7,1
+UKL10677,Chamoli,Rudraprayag,High-Hill,High-Hill,310.1,First Class,4,72.6,85.5,0.98,0,0,Moderate,4.05,2.8,4.43,1168.06,1
+UKL10678,Uttarkashi,Rudraprayag,High-Hill,High-Hill,422.4,First Class,11,122.8,49.5,1.6,0,0,Good,3.64,2.8,5.26,1458.61,1
+UKL10679,Almora,Chamoli,Mid-Hill,High-Hill,260.1,Same Day,10,93.8,68.6,0.85,0,0,Good,4.2,1.2,1.3,1307.68,0
+UKL10680,Haridwar,Chamoli,Plain/Lower Hill,High-Hill,463.7,Standard,12,73.2,70.6,1.03,0,0,Moderate,3.7,4.5,6.31,1455.07,1
+UKL10681,Chamoli,Nainital,High-Hill,Mid-Hill,354.5,First Class,6,96.2,78.5,1.08,0,0,Good,4.115,2.8,4.64,1315.68,1
+UKL10682,Pauri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,129.8,Same Day,8,77.3,53.1,1.0,0,0,Good,3.84,1.2,2.04,969.44,1
+UKL10683,Bageshwar,Haridwar,Mid-Hill,Plain/Lower Hill,289.8,Standard,5,70.9,34.9,1.22,0,0,Good,3.87,4.5,5.99,904.51,1
+UKL10684,Pithoragarh,Uttarkashi,High-Hill,High-Hill,332.7,First Class,8,81.1,46.9,1.51,0,0,Good,4.87,2.8,3.66,1242.08,1
+UKL10685,Bageshwar,Tehri Garhwal,Mid-Hill,Mid-Hill,229.4,Standard,11,59.7,92.7,1.36,0,0,Moderate,4.42,4.5,6.11,878.57,1
+UKL10686,Pauri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,149.1,Second Class,7,111.3,59.2,1.31,0,0,Good,4.51,3.8,4.81,741.33,1
+UKL10687,Nainital,Chamoli,Mid-Hill,High-Hill,440.2,Standard,7,84.8,58.4,1.14,1,1,Poor,4.52,4.5,7.41,1293.76,1
+UKL10688,Almora,Rudraprayag,Mid-Hill,High-Hill,401.0,Standard,9,62.0,81.0,1.54,0,0,Moderate,4.39,4.5,6.04,1305.74,1
+UKL10689,Rudraprayag,Chamoli,High-Hill,High-Hill,244.7,First Class,7,92.6,44.3,0.74,0,0,Poor,3.62,2.8,4.15,1080.58,1
+UKL10690,Haridwar,Champawat,Plain/Lower Hill,Mid-Hill,177.4,Standard,8,56.2,87.9,1.76,1,0,Good,3.49,4.5,6.14,696.2,1
+UKL10691,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,295.2,First Class,8,58.5,55.3,1.49,0,0,Poor,3.92,2.8,4.66,1278.08,1
+UKL10692,Tehri Garhwal,Haridwar,Mid-Hill,Plain/Lower Hill,301.8,First Class,7,54.6,79.2,0.73,0,0,Good,4.06,2.8,3.41,1149.98,1
+UKL10693,Pithoragarh,Haridwar,High-Hill,Plain/Lower Hill,337.5,Second Class,8,107.6,106.6,0.95,0,0,Good,4.38,3.8,5.82,1140.37,1
+UKL10694,Rudraprayag,Nainital,High-Hill,Mid-Hill,416.4,First Class,6,66.3,117.6,1.2,0,0,Moderate,4.13,2.8,5.43,1458.5,1
+UKL10695,Nainital,Uttarkashi,Mid-Hill,High-Hill,482.0,Standard,9,70.1,76.6,1.59,0,0,Poor,4.2,4.5,7.4,1353.56,1
+UKL10696,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,336.9,Standard,3,50.2,96.5,0.92,0,0,Good,3.41,4.5,6.67,869.74,1
+UKL10697,Almora,Uttarkashi,Mid-Hill,High-Hill,189.9,Standard,5,103.2,60.3,0.93,0,0,Good,3.97,4.5,5.69,659.22,1
+UKL10698,Almora,Haridwar,Mid-Hill,Plain/Lower Hill,202.0,Standard,10,78.2,35.7,0.88,0,0,Good,3.92,4.5,5.48,1077.6399999999999,1
+UKL10699,Dehradun,Rudraprayag,Plain/Lower Hill,High-Hill,379.2,Standard,10,54.8,81.1,0.64,0,1,Moderate,4.6,4.5,6.07,1272.71,1
+UKL10700,Bageshwar,Tehri Garhwal,Mid-Hill,Mid-Hill,277.9,Standard,8,58.9,53.3,0.71,0,1,Moderate,4.11,4.5,6.26,946.59,1
+UKL10701,Rudraprayag,Uttarkashi,High-Hill,High-Hill,317.7,Standard,16,39.1,28.0,1.67,0,0,Poor,4.53,4.5,6.21,1077.6399999999999,1
+UKL10702,Rudraprayag,Dehradun,High-Hill,Plain/Lower Hill,171.1,Second Class,9,96.2,76.7,1.69,0,1,Good,4.24,3.8,5.53,814.02,1
+UKL10703,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,373.9,Standard,10,71.4,68.9,0.8,0,1,Moderate,4.47,4.5,6.53,1188.05,1
+UKL10704,Udham Singh Nagar,Haridwar,Plain/Lower Hill,Plain/Lower Hill,68.9,Same Day,7,90.9,80.6,0.27,0,0,Moderate,4.64,1.2,2.18,845.63,1
+UKL10705,Udham Singh Nagar,Dehradun,Plain/Lower Hill,Plain/Lower Hill,99.0,Second Class,6,69.9,15.0,0.8,0,0,Moderate,4.74,3.8,3.77,582.41,0
+UKL10706,Tehri Garhwal,Chamoli,Mid-Hill,High-Hill,252.2,Second Class,10,80.0,69.9,1.08,0,0,Moderate,3.94,3.8,5.89,1077.8,1
+UKL10707,Udham Singh Nagar,Bageshwar,Plain/Lower Hill,Mid-Hill,295.7,Standard,13,94.8,71.3,0.86,0,0,Moderate,3.61,4.5,6.66,1081.63,1
+UKL10708,Udham Singh Nagar,Rudraprayag,Plain/Lower Hill,High-Hill,248.1,Second Class,8,47.0,50.2,0.89,0,1,Moderate,4.49,3.8,5.44,1071.28,1
+UKL10709,Tehri Garhwal,Pithoragarh,Mid-Hill,High-Hill,440.1,Same Day,9,77.4,112.4,0.88,1,0,Good,4.04,1.2,2.5,1625.63,1
+UKL10710,Rudraprayag,Champawat,High-Hill,Mid-Hill,279.7,Standard,8,59.2,62.4,0.67,0,1,Moderate,4.25,4.5,5.74,937.2,1
+UKL10711,Uttarkashi,Nainital,High-Hill,Mid-Hill,460.1,Second Class,10,86.0,81.7,1.11,1,0,Moderate,3.37,3.8,7.14,1304.95,1
+UKL10712,Pithoragarh,Rudraprayag,High-Hill,High-Hill,539.6,Standard,5,47.8,115.4,0.55,0,0,Moderate,3.16,4.5,6.8,1457.61,1
+UKL10713,Dehradun,Nainital,Plain/Lower Hill,Mid-Hill,359.9,Second Class,12,95.8,35.8,0.7,0,1,Good,4.24,3.8,4.84,1240.31,1
+UKL10714,Rudraprayag,Pithoragarh,High-Hill,High-Hill,361.3,First Class,6,68.0,77.1,1.43,0,0,Good,3.54,2.8,5.09,1254.34,1
+UKL10715,Udham Singh Nagar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,179.6,Same Day,10,93.6,76.8,0.29,0,0,Moderate,3.59,1.2,2.66,1112.69,1
+UKL10716,Pauri Garhwal,Uttarkashi,Mid-Hill,High-Hill,410.1,Standard,8,84.3,73.5,1.57,0,0,Good,4.42,4.5,6.05,1298.59,1
+UKL10717,Udham Singh Nagar,Pithoragarh,Plain/Lower Hill,High-Hill,234.8,Standard,9,113.5,82.6,1.2,0,1,Good,4.98,4.5,5.72,833.1,1
+UKL10718,Champawat,Chamoli,Mid-Hill,High-Hill,433.8,Standard,4,87.8,60.9,1.08,0,0,Good,4.27,4.5,6.65,1179.4,1
+UKL10719,Almora,Haridwar,Mid-Hill,Plain/Lower Hill,377.2,Second Class,8,71.5,57.1,1.08,0,0,Moderate,4.05,3.8,5.71,1265.37,1
+UKL10720,Dehradun,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,206.8,Standard,8,100.7,42.6,0.81,0,0,Good,3.61,4.5,5.33,766.23,1
+UKL10721,Almora,Uttarkashi,Mid-Hill,High-Hill,435.2,Second Class,8,34.9,95.3,0.8,0,1,Moderate,4.08,3.8,6.85,1315.89,1
+UKL10722,Haridwar,Dehradun,Plain/Lower Hill,Plain/Lower Hill,190.7,Standard,4,76.3,92.5,0.99,0,1,Good,3.52,4.5,5.69,656.73,1
+UKL10723,Nainital,Chamoli,Mid-Hill,High-Hill,388.0,Standard,10,29.2,100.1,1.28,0,0,Good,3.95,4.5,6.59,1271.71,1
+UKL10724,Chamoli,Udham Singh Nagar,High-Hill,Plain/Lower Hill,133.4,Second Class,7,83.4,87.1,1.22,0,1,Good,4.08,3.8,4.56,721.16,1
+UKL10725,Dehradun,Pithoragarh,Plain/Lower Hill,High-Hill,296.4,Standard,6,68.4,74.4,0.56,0,0,Moderate,4.57,4.5,5.48,992.62,1
+UKL10726,Chamoli,Bageshwar,High-Hill,Mid-Hill,370.9,Standard,10,88.9,56.2,1.09,0,1,Good,3.52,4.5,6.0,1123.75,1
+UKL10727,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,266.7,First Class,11,73.7,84.1,0.8,0,0,Moderate,3.84,2.8,3.71,1057.44,1
+UKL10728,Pauri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,210.6,Standard,5,53.7,89.4,1.14,0,0,Poor,4.17,4.5,6.39,842.88,1
+UKL10729,Champawat,Almora,Mid-Hill,Mid-Hill,294.5,Second Class,7,44.3,78.6,1.46,0,0,Poor,3.72,3.8,5.15,981.66,1
+UKL10730,Haridwar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,213.9,Same Day,11,65.7,63.0,0.97,0,1,Good,3.65,1.2,2.49,1270.62,1
+UKL10731,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,188.0,Standard,6,49.3,63.8,0.2,0,0,Good,4.36,4.5,5.47,784.09,1
+UKL10732,Pithoragarh,Bageshwar,High-Hill,Mid-Hill,404.9,Standard,8,98.2,98.4,0.32,0,0,Poor,3.8,4.5,5.25,1229.2,1
+UKL10733,Bageshwar,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,295.2,Standard,6,85.1,104.3,1.68,0,1,Good,4.03,4.5,6.01,984.58,1
+UKL10734,Chamoli,Champawat,High-Hill,Mid-Hill,166.9,Standard,4,64.7,45.9,1.51,1,0,Moderate,3.48,4.5,5.86,649.72,1
+UKL10735,Bageshwar,Nainital,Mid-Hill,Mid-Hill,243.5,Second Class,7,59.5,57.6,0.87,1,1,Good,4.24,3.8,6.17,949.88,1
+UKL10736,Tehri Garhwal,Pauri Garhwal,Mid-Hill,Mid-Hill,443.3,Standard,6,109.0,101.7,1.05,0,0,Poor,4.57,4.5,6.69,1403.23,1
+UKL10737,Udham Singh Nagar,Rudraprayag,Plain/Lower Hill,High-Hill,231.6,Standard,8,81.4,65.8,0.62,0,0,Moderate,4.14,4.5,6.03,855.95,1
+UKL10738,Nainital,Uttarkashi,Mid-Hill,High-Hill,426.1,First Class,10,52.9,50.6,0.98,0,0,Moderate,4.42,2.8,4.36,1463.45,1
+UKL10739,Haridwar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,173.9,Standard,4,73.8,62.3,1.09,0,1,Moderate,4.31,4.5,6.05,754.63,1
+UKL10740,Almora,Pauri Garhwal,Mid-Hill,Mid-Hill,237.5,Standard,9,114.3,32.2,1.0,0,0,Good,3.74,4.5,5.33,941.78,1
+UKL10741,Chamoli,Dehradun,High-Hill,Plain/Lower Hill,334.1,First Class,6,70.8,85.4,0.63,0,0,Moderate,3.85,2.8,3.61,1156.56,1
+UKL10742,Uttarkashi,Udham Singh Nagar,High-Hill,Plain/Lower Hill,277.6,Standard,5,76.9,48.6,1.16,0,0,Poor,3.83,4.5,6.15,950.46,1
+UKL10743,Udham Singh Nagar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,401.5,Second Class,9,43.0,45.4,0.97,0,0,Poor,4.7,3.8,5.45,1363.53,1
+UKL10744,Tehri Garhwal,Pithoragarh,Mid-Hill,High-Hill,149.1,Second Class,10,68.1,70.4,1.28,1,1,Good,3.6,3.8,5.25,789.05,1
+UKL10745,Nainital,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,291.4,Standard,11,77.0,97.7,1.3,0,0,Moderate,3.69,4.5,6.44,1001.25,1
+UKL10746,Pithoragarh,Chamoli,High-Hill,High-Hill,189.5,Second Class,5,37.7,66.8,1.16,0,0,Moderate,4.13,3.8,5.14,745.82,1
+UKL10747,Chamoli,Bageshwar,High-Hill,Mid-Hill,444.4,Standard,9,63.5,91.1,0.93,0,0,Good,4.46,4.5,6.1,1309.23,1
+UKL10748,Nainital,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,131.4,Standard,5,77.6,50.0,0.9,0,0,Good,3.7,4.5,4.99,550.17,1
+UKL10749,Nainital,Tehri Garhwal,Mid-Hill,Mid-Hill,445.4,Standard,3,61.6,56.6,1.31,0,0,Moderate,4.115,4.5,6.61,1220.17,1
+UKL10750,Rudraprayag,Nainital,High-Hill,Mid-Hill,287.3,Second Class,7,61.9,57.0,1.38,1,0,Good,3.98,3.8,5.46,1030.1,1
+UKL10751,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,416.3,Standard,10,86.6,81.4,0.69,0,0,Good,4.2,4.5,6.33,1313.13,1
+UKL10752,Champawat,Pithoragarh,Mid-Hill,High-Hill,236.4,Same Day,7,86.8,80.5,1.6,1,1,Moderate,3.67,1.2,3.96,1267.37,1
+UKL10753,Pithoragarh,Champawat,High-Hill,Mid-Hill,422.0,Standard,7,75.0,64.5,1.53,0,1,Moderate,4.66,4.5,6.73,1259.73,1
+UKL10754,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,396.8,Standard,4,71.8,40.5,1.46,0,0,Moderate,4.13,4.5,5.99,1140.42,1
+UKL10755,Bageshwar,Pauri Garhwal,Mid-Hill,Mid-Hill,106.9,Standard,6,94.0,63.1,1.11,0,0,Moderate,3.82,4.5,5.63,658.88,1
+UKL10756,Dehradun,Haridwar,Plain/Lower Hill,Plain/Lower Hill,110.7,Second Class,7,69.9,42.1,1.08,0,0,Moderate,3.42,3.8,5.03,697.06,1
+UKL10757,Champawat,Chamoli,Mid-Hill,High-Hill,190.0,Second Class,4,87.2,59.6,1.12,0,0,Good,4.52,3.8,5.33,804.6,1
+UKL10758,Pauri Garhwal,Haridwar,Mid-Hill,Plain/Lower Hill,293.4,Second Class,11,71.9,58.4,1.59,0,0,Moderate,3.8,3.8,5.52,1248.67,1
+UKL10759,Rudraprayag,Uttarkashi,High-Hill,High-Hill,279.1,Standard,10,82.3,80.2,0.75,0,0,Good,4.48,4.5,6.36,946.41,1
+UKL10760,Pauri Garhwal,Pithoragarh,Mid-Hill,High-Hill,265.3,First Class,9,102.7,56.4,1.55,0,0,Good,3.91,2.8,4.23,1180.89,1
+UKL10761,Nainital,Pithoragarh,Mid-Hill,High-Hill,493.2,Second Class,7,70.8,74.7,1.07,0,0,Good,4.26,3.8,5.32,1393.6,1
+UKL10762,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,267.2,Same Day,10,53.6,76.8,1.23,0,0,Good,3.6,1.2,2.03,1264.19,1
+UKL10763,Pithoragarh,Nainital,High-Hill,Mid-Hill,495.2,Standard,8,41.1,105.8,1.04,0,0,Poor,4.38,4.5,6.98,1494.81,1
+UKL10764,Pithoragarh,Udham Singh Nagar,High-Hill,Plain/Lower Hill,225.7,Standard,6,78.2,96.6,1.08,0,0,Moderate,3.87,4.5,5.37,857.33,1
+UKL10765,Nainital,Chamoli,Mid-Hill,High-Hill,277.7,First Class,11,80.9,51.4,1.39,1,0,Good,4.33,2.8,4.12,1169.0,1
+UKL10766,Pauri Garhwal,Rudraprayag,Mid-Hill,High-Hill,332.1,Standard,6,80.3,61.1,0.92,0,0,Good,4.49,4.5,5.62,1080.57,1
+UKL10767,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,249.9,Second Class,5,62.4,64.7,1.08,0,1,Moderate,3.35,3.8,5.95,908.88,1
+UKL10768,Tehri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,383.5,Second Class,10,22.6,51.0,0.68,0,1,Good,3.7,3.8,5.68,1263.35,1
+UKL10769,Chamoli,Haridwar,High-Hill,Plain/Lower Hill,406.9,Standard,6,94.9,54.1,0.44,0,0,Moderate,4.74,4.5,6.01,1157.08,1
+UKL10770,Udham Singh Nagar,Pithoragarh,Plain/Lower Hill,High-Hill,282.2,Standard,5,64.8,96.2,0.65,1,0,Good,3.36,4.5,6.41,880.69,1
+UKL10771,Uttarkashi,Nainital,High-Hill,Mid-Hill,451.5,Second Class,7,69.5,43.5,1.59,0,0,Moderate,4.1,3.8,6.46,1402.61,1
+UKL10772,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,313.3,Standard,9,73.7,87.9,1.29,0,0,Poor,3.75,4.5,6.64,1072.19,1
+UKL10773,Tehri Garhwal,Rudraprayag,Mid-Hill,High-Hill,368.4,Standard,6,81.9,79.0,1.06,0,0,Moderate,3.88,4.5,5.92,1093.29,1
+UKL10774,Almora,Tehri Garhwal,Mid-Hill,Mid-Hill,321.9,Second Class,3,126.7,86.8,1.02,0,0,Good,4.94,3.8,4.62,1007.79,1
+UKL10775,Champawat,Uttarkashi,Mid-Hill,High-Hill,364.9,Second Class,8,97.7,74.8,1.14,0,0,Good,3.87,3.8,4.64,1077.6399999999999,1
+UKL10776,Pauri Garhwal,Tehri Garhwal,Mid-Hill,Mid-Hill,365.3,Standard,11,102.7,59.8,1.33,0,0,Good,3.55,4.5,5.92,1208.41,1
+UKL10777,Udham Singh Nagar,Chamoli,Plain/Lower Hill,High-Hill,236.1,Second Class,9,88.0,68.5,1.12,0,1,Good,4.38,3.8,5.89,928.6,1
+UKL10778,Pithoragarh,Udham Singh Nagar,High-Hill,Plain/Lower Hill,267.3,Standard,9,97.4,72.0,1.0,0,0,Moderate,3.62,4.5,5.85,923.49,1
+UKL10779,Pauri Garhwal,Pithoragarh,Mid-Hill,High-Hill,408.9,Second Class,4,101.0,85.4,0.3,0,1,Good,4.115,3.8,5.28,1064.66,1
+UKL10780,Champawat,Almora,Mid-Hill,Mid-Hill,129.7,Standard,9,61.7,102.9,1.69,0,0,Good,4.64,4.5,5.84,662.29,1
+UKL10781,Udham Singh Nagar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,345.4,First Class,7,129.1,54.6,1.28,0,0,Moderate,3.17,2.8,3.94,1392.62,1
+UKL10782,Pithoragarh,Uttarkashi,High-Hill,High-Hill,454.5,Second Class,6,59.8,79.4,1.41,1,1,Good,4.04,3.8,5.78,1352.63,1
+UKL10783,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,309.1,Second Class,5,117.5,74.8,0.66,0,0,Poor,3.8,3.8,5.32,1138.87,1
+UKL10784,Tehri Garhwal,Chamoli,Mid-Hill,High-Hill,423.9,Standard,9,60.9,73.5,1.15,0,0,Good,3.76,4.5,6.0,1288.0,1
+UKL10785,Chamoli,Almora,High-Hill,Mid-Hill,422.8,First Class,8,88.2,100.1,1.91,0,0,Moderate,3.87,2.8,4.52,1441.29,1
+UKL10786,Udham Singh Nagar,Rudraprayag,Plain/Lower Hill,High-Hill,224.8,First Class,10,69.9,48.6,1.3,0,0,Good,4.04,2.8,4.07,1079.44,1
+UKL10787,Champawat,Rudraprayag,Mid-Hill,High-Hill,513.2,Standard,9,59.1,22.5,1.38,0,1,Good,5.0,4.5,6.4,1383.28,1
+UKL10788,Haridwar,Bageshwar,Plain/Lower Hill,Mid-Hill,163.5,Second Class,8,93.9,75.9,0.57,0,0,Good,4.34,3.8,4.94,808.22,1
+UKL10789,Pauri Garhwal,Haridwar,Mid-Hill,Plain/Lower Hill,251.3,First Class,7,37.2,34.1,0.78,0,0,Moderate,3.82,2.8,4.39,1072.94,1
+UKL10790,Chamoli,Bageshwar,High-Hill,Mid-Hill,368.3,Standard,4,66.6,49.1,0.96,0,0,Good,3.93,4.5,6.29,987.6,1
+UKL10791,Rudraprayag,Pithoragarh,High-Hill,High-Hill,128.8,Standard,16,70.0,76.9,1.23,0,0,Moderate,4.12,4.5,5.14,879.03,1
+UKL10792,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,360.3,First Class,7,65.3,69.2,0.98,0,0,Moderate,4.33,2.8,4.75,1276.09,1
+UKL10793,Nainital,Champawat,Mid-Hill,Mid-Hill,416.7,Standard,7,64.8,66.9,1.6,0,1,Good,4.16,4.5,6.26,1289.14,1
+UKL10794,Pauri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,395.3,Second Class,9,104.3,66.2,1.38,1,1,Poor,4.57,3.8,7.74,1363.89,1
+UKL10795,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,224.2,Standard,10,41.3,77.2,0.99,0,0,Good,4.03,4.5,4.98,764.54,1
+UKL10796,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,269.6,Second Class,7,81.2,51.0,0.88,0,1,Good,3.52,3.8,5.63,1036.63,1
+UKL10797,Rudraprayag,Tehri Garhwal,High-Hill,Mid-Hill,325.8,Same Day,13,75.4,70.5,1.67,0,1,Moderate,3.27,1.2,3.75,1544.53,1
+UKL10798,Dehradun,Champawat,Plain/Lower Hill,Mid-Hill,193.7,First Class,8,33.1,88.3,0.37,0,0,Good,4.57,2.8,3.29,947.17,1
+UKL10799,Pithoragarh,Dehradun,High-Hill,Plain/Lower Hill,378.6,Second Class,6,55.5,78.8,1.08,0,0,Good,4.48,3.8,5.48,1199.47,1
+UKL10800,Almora,Pithoragarh,Mid-Hill,High-Hill,218.2,Standard,10,124.7,80.0,0.95,0,0,Moderate,3.76,4.5,5.72,943.82,1
+UKL10801,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,120.4,Standard,9,60.8,94.6,0.64,1,1,Good,4.25,4.5,6.21,611.03,1
+UKL10802,Almora,Champawat,Mid-Hill,Mid-Hill,389.9,Standard,9,88.4,91.6,0.42,0,1,Good,4.21,4.5,6.01,1147.16,1
+UKL10803,Tehri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,267.9,Standard,10,70.1,93.1,0.67,0,0,Poor,3.89,4.5,5.89,1067.46,1
+UKL10804,Uttarkashi,Dehradun,High-Hill,Plain/Lower Hill,445.1,Standard,9,77.8,78.9,0.77,0,0,Moderate,4.17,4.5,6.54,1281.97,1
+UKL10805,Tehri Garhwal,Rudraprayag,Mid-Hill,High-Hill,238.6,Standard,8,72.8,48.9,1.36,0,0,Moderate,4.47,4.5,6.62,904.62,1
+UKL10806,Chamoli,Uttarkashi,High-Hill,High-Hill,433.5,Standard,11,104.0,86.5,1.56,0,0,Moderate,3.53,4.5,6.18,1233.25,1
+UKL10807,Bageshwar,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,305.9,Standard,2,83.5,92.7,1.08,0,0,Moderate,3.92,4.5,6.05,931.15,1
+UKL10808,Uttarkashi,Chamoli,High-Hill,High-Hill,392.5,Second Class,11,47.6,76.1,1.54,0,0,Good,4.05,3.8,5.58,1329.28,1
+UKL10809,Dehradun,Nainital,Plain/Lower Hill,Mid-Hill,359.4,Second Class,7,70.0,78.8,0.74,0,1,Good,4.64,3.8,4.44,1082.97,1
+UKL10810,Rudraprayag,Dehradun,High-Hill,Plain/Lower Hill,333.1,Standard,6,67.7,81.7,0.92,0,0,Moderate,3.41,4.5,6.15,1071.27,1
+UKL10811,Champawat,Pithoragarh,Mid-Hill,High-Hill,489.0,Second Class,6,97.7,93.1,1.63,0,0,Moderate,4.45,3.8,6.7,1402.86,1
+UKL10812,Udham Singh Nagar,Bageshwar,Plain/Lower Hill,Mid-Hill,337.1,Standard,10,60.4,71.8,0.62,0,1,Good,4.22,4.5,4.9,1062.95,1
+UKL10813,Almora,Champawat,Mid-Hill,Mid-Hill,153.9,Standard,5,75.4,46.5,0.46,0,1,Moderate,4.1,4.5,6.54,655.64,1
+UKL10814,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,360.2,First Class,14,56.6,26.4,1.15,0,1,Poor,4.23,2.8,5.1,1381.66,1
+UKL10815,Dehradun,Chamoli,Plain/Lower Hill,High-Hill,295.3,First Class,7,72.0,58.8,1.1,0,0,Poor,4.31,2.8,4.39,1172.51,1
+UKL10816,Almora,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,237.8,Standard,6,63.0,77.4,1.35,1,0,Moderate,3.99,4.5,5.57,959.46,1
+UKL10817,Champawat,Haridwar,Mid-Hill,Plain/Lower Hill,192.3,Second Class,7,93.7,38.4,0.69,0,0,Good,3.92,3.8,4.59,727.01,1
+UKL10818,Pithoragarh,Champawat,High-Hill,Mid-Hill,355.1,Second Class,10,85.7,59.6,1.09,0,0,Moderate,4.09,3.8,4.91,1235.64,1
+UKL10819,Almora,Chamoli,Mid-Hill,High-Hill,413.2,First Class,11,52.8,33.5,1.15,1,0,Good,3.25,2.8,4.86,1436.02,1
+UKL10820,Pauri Garhwal,Champawat,Mid-Hill,Mid-Hill,414.4,Standard,8,68.9,57.8,1.2,0,1,Good,3.73,4.5,6.86,1173.79,1
+UKL10821,Nainital,Dehradun,Mid-Hill,Plain/Lower Hill,253.6,Standard,9,68.5,93.3,0.92,1,0,Good,3.31,4.5,5.74,920.51,1
+UKL10822,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,194.7,Same Day,9,62.8,69.2,0.92,0,0,Moderate,3.18,1.2,1.83,1063.28,1
+UKL10823,Udham Singh Nagar,Uttarkashi,Plain/Lower Hill,High-Hill,449.5,Second Class,10,96.7,41.4,0.83,0,0,Moderate,4.17,3.8,5.44,1401.84,1
+UKL10824,Tehri Garhwal,Haridwar,Mid-Hill,Plain/Lower Hill,94.0,First Class,7,68.4,79.8,0.98,1,0,Good,4.39,2.8,3.69,688.94,1
+UKL10825,Rudraprayag,Champawat,High-Hill,Mid-Hill,256.7,Standard,7,101.0,37.2,1.08,0,0,Good,4.01,4.5,6.07,853.33,1
+UKL10826,Chamoli,Champawat,High-Hill,Mid-Hill,332.2,First Class,3,63.1,56.1,1.21,0,0,Moderate,3.37,2.8,4.35,1182.88,1
+UKL10827,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,404.2,Standard,5,47.5,69.4,0.86,0,0,Poor,4.51,4.5,7.0,1177.16,1
+UKL10828,Bageshwar,Pauri Garhwal,Mid-Hill,Mid-Hill,211.4,Standard,2,115.0,62.0,1.11,0,0,Good,4.1,4.5,4.81,731.05,1
+UKL10829,Udham Singh Nagar,Almora,Plain/Lower Hill,Mid-Hill,204.5,First Class,5,69.1,77.9,1.16,0,0,Good,4.4,2.8,4.3,882.72,1
+UKL10830,Uttarkashi,Champawat,High-Hill,Mid-Hill,225.0,Same Day,9,52.8,91.3,0.63,0,0,Moderate,4.37,1.2,2.19,1198.81,1
+UKL10831,Dehradun,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,180.5,Standard,8,96.0,116.6,0.43,0,1,Moderate,3.34,4.5,5.56,741.96,1
+UKL10832,Chamoli,Pauri Garhwal,High-Hill,Mid-Hill,437.6,Second Class,11,69.3,47.1,0.94,0,0,Poor,4.17,3.8,6.21,1520.59,1
+UKL10833,Pithoragarh,Dehradun,High-Hill,Plain/Lower Hill,362.1,Standard,10,76.8,83.8,0.9,0,1,Good,4.62,4.5,5.91,1132.27,1
+UKL10834,Haridwar,Pithoragarh,Plain/Lower Hill,High-Hill,308.9,Standard,9,84.4,80.5,0.8,0,1,Good,3.44,4.5,5.29,984.97,1
+UKL10835,Bageshwar,Pauri Garhwal,Mid-Hill,Mid-Hill,304.7,Standard,6,57.0,67.7,1.21,0,1,Good,4.02,4.5,6.13,1043.45,1
+UKL10836,Rudraprayag,Almora,High-Hill,Mid-Hill,429.1,Second Class,16,109.6,50.3,1.14,0,0,Good,3.75,3.8,4.96,1353.11,1
+UKL10837,Tehri Garhwal,Pithoragarh,Mid-Hill,High-Hill,213.5,Standard,9,86.0,72.3,1.33,0,0,Poor,3.7,4.5,6.17,916.24,1
+UKL10838,Chamoli,Pithoragarh,High-Hill,High-Hill,341.5,Standard,8,73.0,63.4,0.96,0,0,Moderate,4.01,4.5,6.15,1033.74,1
+UKL10839,Pauri Garhwal,Almora,Mid-Hill,Mid-Hill,408.5,First Class,9,96.3,75.2,1.4,0,0,Moderate,4.1,2.8,5.25,1425.88,1
+UKL10840,Haridwar,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,217.8,First Class,7,86.0,49.7,0.89,0,0,Good,4.39,2.8,4.04,916.89,1
+UKL10841,Champawat,Rudraprayag,Mid-Hill,High-Hill,292.7,Standard,7,65.4,55.6,1.13,0,0,Good,4.07,4.5,6.04,959.07,1
+UKL10842,Bageshwar,Uttarkashi,Mid-Hill,High-Hill,361.3,Second Class,5,72.1,74.3,1.81,0,0,Good,4.26,3.8,6.09,1153.0,1
+UKL10843,Pauri Garhwal,Pithoragarh,Mid-Hill,High-Hill,354.6,First Class,8,69.3,65.6,0.83,0,0,Good,4.51,2.8,4.74,1295.45,1
+UKL10844,Pithoragarh,Udham Singh Nagar,High-Hill,Plain/Lower Hill,401.4,Standard,8,105.4,38.8,1.21,0,0,Poor,5.0,4.5,7.27,1255.62,1
+UKL10845,Udham Singh Nagar,Haridwar,Plain/Lower Hill,Plain/Lower Hill,106.0,Standard,4,75.3,88.7,1.0,0,0,Good,4.25,4.5,4.49,455.77,0
+UKL10846,Haridwar,Dehradun,Plain/Lower Hill,Plain/Lower Hill,68.3,First Class,7,15.299999999999983,70.9,1.31,0,1,Good,3.78,2.8,4.38,719.09,1
+UKL10847,Tehri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,302.9,Second Class,7,63.2,61.7,1.03,0,0,Moderate,4.82,3.8,4.41,996.41,1
+UKL10848,Chamoli,Dehradun,High-Hill,Plain/Lower Hill,289.2,Standard,9,82.0,55.2,0.97,0,0,Good,3.81,4.5,6.31,996.26,1
+UKL10849,Tehri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,331.7,Standard,12,94.6,82.2,1.24,0,0,Poor,4.09,4.5,6.79,1170.23,1
+UKL10850,Bageshwar,Nainital,Mid-Hill,Mid-Hill,211.5,Second Class,10,101.6,37.0,1.15,0,1,Good,3.36,3.8,4.52,923.69,1
+UKL10851,Almora,Haridwar,Mid-Hill,Plain/Lower Hill,299.8,Second Class,7,135.50000000000003,58.1,0.85,0,0,Moderate,4.115,3.8,5.33,1014.66,1
+UKL10852,Tehri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,306.4,Standard,8,88.0,81.5,1.15,0,1,Good,3.91,4.5,6.08,1000.63,1
+UKL10853,Haridwar,Uttarkashi,Plain/Lower Hill,High-Hill,272.7,Standard,6,83.6,75.4,1.92,1,0,Good,4.62,4.5,7.8,960.52,1
+UKL10854,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,179.6,First Class,8,105.2,60.2,0.77,0,1,Poor,4.07,2.8,3.95,1077.6399999999999,1
+UKL10855,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,295.1,Standard,4,62.3,54.1,0.65,0,0,Moderate,4.95,4.5,6.16,1077.6399999999999,1
+UKL10856,Chamoli,Udham Singh Nagar,High-Hill,Plain/Lower Hill,313.3,First Class,9,60.2,65.1,0.72,0,0,Good,4.47,2.8,3.54,1225.18,1
+UKL10857,Uttarkashi,Dehradun,High-Hill,Plain/Lower Hill,226.9,Second Class,7,69.5,38.5,1.23,0,1,Poor,4.08,3.8,5.26,950.21,1
+UKL10858,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,352.8,Standard,9,101.6,45.9,0.29,0,0,Good,4.27,4.5,6.02,1140.09,1
+UKL10859,Udham Singh Nagar,Nainital,Plain/Lower Hill,Mid-Hill,350.3,Standard,7,99.7,92.0,0.93,0,0,Good,3.44,4.5,6.18,982.98,1
+UKL10860,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,399.6,Second Class,9,33.3,34.9,1.72,0,1,Moderate,4.07,3.8,5.91,1421.98,1
+UKL10861,Uttarkashi,Dehradun,High-Hill,Plain/Lower Hill,325.8,Second Class,3,68.1,56.1,1.22,0,1,Good,3.96,3.8,4.69,1055.89,1
+UKL10862,Chamoli,Tehri Garhwal,High-Hill,Mid-Hill,323.4,Standard,9,78.7,70.1,0.76,0,0,Good,3.34,4.5,6.01,1042.34,1
+UKL10863,Tehri Garhwal,Pithoragarh,Mid-Hill,High-Hill,302.5,Same Day,5,58.7,84.3,0.83,0,0,Moderate,3.56,1.2,3.61,1267.72,1
+UKL10864,Haridwar,Champawat,Plain/Lower Hill,Mid-Hill,231.5,Same Day,7,88.8,58.2,0.63,0,0,Poor,3.56,1.2,2.32,1208.55,1
+UKL10865,Udham Singh Nagar,Dehradun,Plain/Lower Hill,Plain/Lower Hill,148.1,Second Class,6,74.8,122.8,0.71,0,1,Good,4.16,3.8,4.53,765.51,1
+UKL10866,Chamoli,Pauri Garhwal,High-Hill,Mid-Hill,371.5,Standard,12,73.3,70.8,1.08,0,1,Good,4.47,4.5,6.08,1218.02,1
+UKL10867,Pithoragarh,Haridwar,High-Hill,Plain/Lower Hill,430.6,First Class,6,72.5,72.0,0.77,0,0,Moderate,4.39,2.8,3.44,1439.81,1
+UKL10868,Nainital,Pithoragarh,Mid-Hill,High-Hill,263.0,Second Class,9,72.9,99.3,1.04,1,0,Good,5.0,3.8,5.43,958.35,1
+UKL10869,Almora,Chamoli,Mid-Hill,High-Hill,393.3,Standard,7,69.4,61.7,1.08,0,0,Moderate,4.15,4.5,6.12,1148.73,1
+UKL10870,Dehradun,Pithoragarh,Plain/Lower Hill,High-Hill,415.7,Standard,11,51.8,76.7,1.06,0,1,Good,3.94,4.5,6.59,1260.45,1
+UKL10871,Pithoragarh,Haridwar,High-Hill,Plain/Lower Hill,388.9,Standard,6,20.9,103.0,1.33,0,0,Moderate,3.83,4.5,6.44,1089.26,1
+UKL10872,Almora,Nainital,Mid-Hill,Mid-Hill,331.3,Standard,7,38.1,49.3,0.67,0,1,Good,4.12,4.5,5.85,1057.32,1
+UKL10873,Uttarkashi,Udham Singh Nagar,High-Hill,Plain/Lower Hill,321.3,Standard,9,47.3,78.4,1.38,0,0,Good,4.73,4.5,5.32,1009.25,1
+UKL10874,Nainital,Haridwar,Mid-Hill,Plain/Lower Hill,347.0,Second Class,9,108.1,56.3,0.66,0,1,Good,4.36,3.8,4.76,1134.24,1
+UKL10875,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,350.6,Second Class,9,45.7,110.8,0.9,0,0,Poor,3.83,3.8,5.84,1287.35,1
+UKL10876,Tehri Garhwal,Chamoli,Mid-Hill,High-Hill,443.1,First Class,6,110.3,85.0,1.68,0,1,Poor,4.46,2.8,5.56,1488.96,1
+UKL10877,Tehri Garhwal,Champawat,Mid-Hill,Mid-Hill,326.2,Standard,6,65.4,61.4,1.37,0,0,Moderate,4.38,4.5,7.05,1033.82,1
+UKL10878,Udham Singh Nagar,Chamoli,Plain/Lower Hill,High-Hill,396.2,Second Class,8,30.4,72.3,0.79,0,0,Poor,3.69,3.8,5.12,1299.41,1
+UKL10879,Bageshwar,Tehri Garhwal,Mid-Hill,Mid-Hill,352.0,Same Day,8,56.7,116.3,0.36,0,0,Good,5.0,1.2,2.24,1428.99,1
+UKL10880,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,317.8,Standard,9,111.1,68.8,0.41,0,0,Good,4.4,4.5,5.8,984.68,1
+UKL10881,Uttarkashi,Champawat,High-Hill,Mid-Hill,413.0,Standard,6,30.6,41.6,1.35,0,0,Moderate,4.76,4.5,6.34,1126.8,1
+UKL10882,Pithoragarh,Chamoli,High-Hill,High-Hill,547.8,Standard,11,53.2,65.7,0.98,0,0,Good,3.6,4.5,7.18,1573.36,1
+UKL10883,Bageshwar,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,294.3,Standard,7,93.3,74.2,0.9,0,0,Moderate,3.71,4.5,6.08,1007.83,1
+UKL10884,Haridwar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,297.5,First Class,11,49.9,39.0,0.75,0,1,Good,3.94,2.8,4.44,1211.8,1
+UKL10885,Tehri Garhwal,Pithoragarh,Mid-Hill,High-Hill,324.9,Second Class,8,41.8,24.8,1.27,0,1,Good,4.21,3.8,5.52,1112.42,1
+UKL10886,Nainital,Uttarkashi,Mid-Hill,High-Hill,358.0,Second Class,8,93.0,56.2,1.32,0,0,Good,4.17,3.8,5.95,1238.11,1
+UKL10887,Almora,Rudraprayag,Mid-Hill,High-Hill,193.3,Standard,6,57.3,15.0,1.38,0,0,Moderate,3.24,4.5,5.85,776.28,1
+UKL10888,Rudraprayag,Tehri Garhwal,High-Hill,Mid-Hill,414.6,Standard,8,82.9,79.5,1.07,0,0,Moderate,3.89,4.5,6.75,1107.04,1
+UKL10889,Tehri Garhwal,Champawat,Mid-Hill,Mid-Hill,334.8,Standard,9,76.0,65.9,1.51,0,1,Moderate,3.65,4.5,6.3,1111.67,1
+UKL10890,Dehradun,Chamoli,Plain/Lower Hill,High-Hill,199.8,Same Day,8,79.7,56.5,0.95,0,0,Moderate,4.67,1.2,2.46,1159.68,1
+UKL10891,Pauri Garhwal,Rudraprayag,Mid-Hill,High-Hill,363.7,Second Class,8,84.3,64.7,0.98,0,0,Good,4.18,3.8,4.77,1164.08,1
+UKL10892,Chamoli,Nainital,High-Hill,Mid-Hill,137.0,Standard,8,61.6,29.9,0.47,0,1,Good,3.36,4.5,5.41,635.11,1
+UKL10893,Pithoragarh,Tehri Garhwal,High-Hill,Mid-Hill,382.3,Second Class,8,99.0,58.7,1.12,0,0,Moderate,4.29,3.8,6.06,1248.85,1
+UKL10894,Uttarkashi,Champawat,High-Hill,Mid-Hill,471.2,First Class,10,43.2,127.4,1.94,0,0,Good,4.65,2.8,4.6,1604.08,1
+UKL10895,Rudraprayag,Bageshwar,High-Hill,Mid-Hill,418.5,Standard,8,91.1,98.3,0.83,0,1,Moderate,4.65,4.5,5.8,1197.75,1
+UKL10896,Nainital,Bageshwar,Mid-Hill,Mid-Hill,318.8,Second Class,10,18.5,15.0,1.24,0,1,Good,3.67,3.8,5.12,1100.34,1
+UKL10897,Haridwar,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,102.9,Standard,5,60.4,44.4,0.77,0,0,Moderate,3.78,4.5,5.52,600.04,1
+UKL10898,Pithoragarh,Dehradun,High-Hill,Plain/Lower Hill,238.2,First Class,7,89.2,89.4,1.44,0,1,Moderate,4.06,2.8,4.84,1038.66,1
+UKL10899,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,416.9,Same Day,10,84.9,15.0,1.55,0,0,Poor,4.51,1.2,2.25,1710.05,1
+UKL10900,Uttarkashi,Bageshwar,High-Hill,Mid-Hill,411.9,Standard,9,85.4,54.4,1.65,0,0,Good,4.03,4.5,6.22,1305.41,1
+UKL10901,Nainital,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,261.7,Standard,12,59.3,102.2,0.94,0,0,Good,4.13,4.5,5.15,1013.2,1
+UKL10902,Almora,Champawat,Mid-Hill,Mid-Hill,331.3,Standard,10,64.9,72.2,0.62,0,1,Good,4.14,4.5,5.52,1183.31,1
+UKL10903,Champawat,Dehradun,Mid-Hill,Plain/Lower Hill,211.9,Standard,5,108.5,68.4,1.34,0,1,Good,3.52,4.5,5.43,750.81,1
+UKL10904,Uttarkashi,Haridwar,High-Hill,Plain/Lower Hill,359.9,Second Class,8,68.7,85.8,0.74,0,1,Good,4.4,3.8,5.55,1077.6399999999999,1
+UKL10905,Dehradun,Nainital,Plain/Lower Hill,Mid-Hill,146.8,Standard,11,72.7,83.9,0.98,1,1,Moderate,4.39,4.5,7.71,823.73,1
+UKL10906,Nainital,Chamoli,Mid-Hill,High-Hill,467.5,Second Class,9,69.0,92.4,0.77,0,0,Moderate,3.76,3.8,6.04,1330.56,1
+UKL10907,Haridwar,Uttarkashi,Plain/Lower Hill,High-Hill,319.5,First Class,9,104.0,93.3,1.05,0,1,Good,3.63,2.8,4.31,1229.83,1
+UKL10908,Nainital,Haridwar,Mid-Hill,Plain/Lower Hill,200.9,Standard,8,18.6,17.7,0.89,0,0,Good,3.9,4.5,5.47,810.27,1
+UKL10909,Pithoragarh,Champawat,High-Hill,Mid-Hill,299.8,Standard,8,92.4,81.0,0.73,0,0,Good,4.79,4.5,5.38,956.65,1
+UKL10910,Rudraprayag,Bageshwar,High-Hill,Mid-Hill,371.8,Standard,7,45.7,73.0,1.52,0,1,Good,4.12,4.5,6.53,1147.25,1
+UKL10911,Nainital,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,212.8,Standard,5,92.6,72.6,0.94,0,0,Moderate,4.15,4.5,5.37,789.73,1
+UKL10912,Chamoli,Champawat,High-Hill,Mid-Hill,288.1,Second Class,11,129.7,94.8,0.36,0,1,Good,4.5,3.8,5.58,1057.27,1
+UKL10913,Pithoragarh,Udham Singh Nagar,High-Hill,Plain/Lower Hill,175.9,Standard,9,53.3,74.2,0.74,0,1,Good,4.115,4.5,6.21,720.0,1
+UKL10914,Almora,Champawat,Mid-Hill,Mid-Hill,302.9,Second Class,7,105.5,58.1,0.36,0,0,Good,3.06,3.8,4.31,1062.85,1
+UKL10915,Haridwar,Bageshwar,Plain/Lower Hill,Mid-Hill,173.3,Standard,5,116.6,90.0,0.77,0,1,Good,4.115,4.5,5.33,690.29,1
+UKL10916,Tehri Garhwal,Pauri Garhwal,Mid-Hill,Mid-Hill,223.3,First Class,6,36.9,101.7,1.08,0,0,Moderate,3.71,2.8,4.35,984.78,1
+UKL10917,Pithoragarh,Nainital,High-Hill,Mid-Hill,381.0,Standard,16,96.1,81.7,0.88,0,0,Moderate,3.88,4.5,6.32,1413.93,1
+UKL10918,Chamoli,Uttarkashi,High-Hill,High-Hill,351.3,Second Class,3,79.0,68.5,1.88,0,0,Good,3.64,3.8,4.94,1141.11,1
+UKL10919,Nainital,Uttarkashi,Mid-Hill,High-Hill,271.8,Standard,7,48.4,56.4,0.67,0,1,Moderate,4.73,4.5,6.43,944.99,1
+UKL10920,Nainital,Chamoli,Mid-Hill,High-Hill,510.5,Standard,6,95.2,90.8,1.58,0,0,Poor,3.88,4.5,6.37,1518.14,1
+UKL10921,Rudraprayag,Almora,High-Hill,Mid-Hill,306.5,Standard,7,67.4,67.6,0.81,0,1,Good,4.58,4.5,6.01,953.75,1
+UKL10922,Haridwar,Udham Singh Nagar,Plain/Lower Hill,Plain/Lower Hill,52.3,Second Class,6,59.5,22.2,0.81,0,0,Poor,3.38,3.8,5.26,584.36,1
+UKL10923,Pauri Garhwal,Bageshwar,Mid-Hill,Mid-Hill,265.8,Standard,10,98.2,81.5,1.07,0,0,Good,3.94,4.5,5.64,1077.6399999999999,1
+UKL10924,Dehradun,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,289.0,Standard,12,64.6,65.8,1.14,0,0,Good,4.32,4.5,5.79,980.67,1
+UKL10925,Pauri Garhwal,Nainital,Mid-Hill,Mid-Hill,407.0,First Class,6,23.7,57.5,1.07,0,1,Moderate,4.51,2.8,5.84,1330.66,1
+UKL10926,Nainital,Haridwar,Mid-Hill,Plain/Lower Hill,211.8,First Class,11,60.2,76.0,0.81,0,0,Good,4.16,2.8,4.0,1013.72,1
+UKL10927,Pithoragarh,Chamoli,High-Hill,High-Hill,433.9,Standard,4,113.0,86.2,0.77,0,0,Good,3.93,4.5,5.76,1160.31,1
+UKL10928,Bageshwar,Haridwar,Mid-Hill,Plain/Lower Hill,346.0,First Class,4,114.9,55.9,1.1,0,0,Moderate,4.02,2.8,4.12,1157.93,1
+UKL10929,Dehradun,Haridwar,Plain/Lower Hill,Plain/Lower Hill,69.6,First Class,7,79.4,92.6,0.79,0,1,Moderate,4.16,2.8,4.28,632.89,1
+UKL10930,Udham Singh Nagar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,237.6,Standard,10,59.3,30.8,1.15,0,0,Moderate,4.19,4.5,6.15,942.72,1
+UKL10931,Pithoragarh,Bageshwar,High-Hill,Mid-Hill,540.1,Same Day,10,50.7,70.1,1.14,0,0,Good,3.46,1.2,3.31,1761.4125,1
+UKL10932,Rudraprayag,Chamoli,High-Hill,High-Hill,463.2,Standard,2,79.7,31.2,1.18,0,0,Good,3.81,4.5,6.06,1213.17,1
+UKL10933,Uttarkashi,Nainital,High-Hill,Mid-Hill,406.2,Standard,8,60.7,88.6,1.58,0,0,Moderate,4.61,4.5,5.89,1190.34,1
+UKL10934,Dehradun,Haridwar,Plain/Lower Hill,Plain/Lower Hill,176.5,Standard,5,81.4,76.8,0.91,0,0,Good,2.9112499999999994,4.5,5.09,699.2,1
+UKL10935,Almora,Champawat,Mid-Hill,Mid-Hill,473.3,First Class,4,108.8,48.7,1.31,0,0,Moderate,3.32,2.8,4.49,1474.87,1
+UKL10936,Almora,Chamoli,Mid-Hill,High-Hill,406.1,Standard,3,42.9,56.6,1.99,1,0,Good,4.18,4.5,5.81,1175.9,1
+UKL10937,Rudraprayag,Nainital,High-Hill,Mid-Hill,185.2,First Class,9,54.9,62.7,1.03,0,0,Moderate,3.72,2.8,4.23,988.3,1
+UKL10938,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,402.7,Second Class,7,46.1,48.4,0.64,0,0,Good,4.03,3.8,4.66,1224.74,1
+UKL10939,Haridwar,Chamoli,Plain/Lower Hill,High-Hill,208.2,Standard,7,76.3,93.0,0.96,1,1,Good,3.85,4.5,6.37,755.11,1
+UKL10940,Dehradun,Pithoragarh,Plain/Lower Hill,High-Hill,289.8,Standard,13,58.4,61.4,0.68,1,1,Moderate,4.69,4.5,7.28,1051.51,1
+UKL10941,Dehradun,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,370.8,First Class,10,118.1,72.2,0.41,0,0,Moderate,4.28,2.8,4.58,1411.14,1
+UKL10942,Rudraprayag,Chamoli,High-Hill,High-Hill,584.1,Standard,9,103.0,55.0,1.43,0,1,Moderate,3.41,4.5,6.98,1645.31,1
+UKL10943,Nainital,Pauri Garhwal,Mid-Hill,Mid-Hill,227.8,Standard,6,116.5,46.1,0.75,0,0,Poor,4.38,4.5,5.81,833.68,1
+UKL10944,Udham Singh Nagar,Chamoli,Plain/Lower Hill,High-Hill,281.3,Second Class,8,102.3,76.4,0.64,1,0,Poor,3.95,3.8,5.81,1121.22,1
+UKL10945,Almora,Tehri Garhwal,Mid-Hill,Mid-Hill,278.4,Standard,7,72.6,95.7,0.75,0,0,Good,4.4,4.5,6.31,877.06,1
+UKL10946,Haridwar,Dehradun,Plain/Lower Hill,Plain/Lower Hill,90.1,First Class,6,63.9,79.8,0.81,0,1,Poor,4.06,2.8,3.62,795.85,1
+UKL10947,Pauri Garhwal,Nainital,Mid-Hill,Mid-Hill,298.5,Standard,6,35.2,84.8,0.97,1,0,Good,4.48,4.5,6.89,995.28,1
+UKL10948,Almora,Rudraprayag,Mid-Hill,High-Hill,128.4,Standard,10,54.3,57.2,1.73,0,0,Moderate,4.47,4.5,6.92,748.18,1
+UKL10949,Dehradun,Rudraprayag,Plain/Lower Hill,High-Hill,282.7,Standard,9,97.2,76.5,1.15,0,0,Moderate,3.91,4.5,6.03,984.92,1
+UKL10950,Haridwar,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,166.1,Standard,7,84.2,95.7,1.15,0,1,Good,3.43,4.5,6.45,654.98,1
+UKL10951,Rudraprayag,Champawat,High-Hill,Mid-Hill,361.2,Second Class,7,88.9,100.5,0.94,0,1,Good,4.45,3.8,5.58,1212.49,1
+UKL10952,Bageshwar,Tehri Garhwal,Mid-Hill,Mid-Hill,112.5,Standard,11,45.9,26.0,0.88,0,0,Moderate,4.21,4.5,6.0,707.14,1
+UKL10953,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,263.2,Second Class,5,83.6,65.5,1.28,0,0,Good,4.76,3.8,3.68,959.89,0
+UKL10954,Pauri Garhwal,Uttarkashi,Mid-Hill,High-Hill,216.1,Standard,5,94.7,60.9,1.54,0,0,Moderate,4.19,4.5,6.5,791.64,1
+UKL10955,Dehradun,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,272.0,Standard,7,79.1,76.0,0.61,0,0,Poor,4.51,4.5,6.69,962.54,1
+UKL10956,Almora,Chamoli,Mid-Hill,High-Hill,221.9,Second Class,8,78.2,38.7,1.3,1,1,Moderate,3.58,3.8,6.3,916.04,1
+UKL10957,Tehri Garhwal,Uttarkashi,Mid-Hill,High-Hill,352.1,Standard,9,80.7,66.7,1.09,0,0,Poor,4.62,4.5,5.94,1193.62,1
+UKL10958,Pauri Garhwal,Champawat,Mid-Hill,Mid-Hill,390.5,Second Class,5,88.0,31.1,1.13,1,0,Moderate,4.36,3.8,6.26,1306.95,1
+UKL10959,Haridwar,Champawat,Plain/Lower Hill,Mid-Hill,237.8,Second Class,5,74.1,65.7,1.12,0,0,Good,4.08,3.8,4.12,948.56,1
+UKL10960,Nainital,Chamoli,Mid-Hill,High-Hill,542.0,First Class,7,56.6,88.7,1.33,0,1,Moderate,4.15,2.8,5.32,1572.48,1
+UKL10961,Almora,Rudraprayag,Mid-Hill,High-Hill,349.7,Standard,14,71.1,66.5,1.33,0,1,Moderate,3.64,4.5,7.02,1211.71,1
+UKL10962,Nainital,Almora,Mid-Hill,Mid-Hill,318.6,Standard,8,85.2,100.1,0.91,0,0,Poor,4.89,4.5,6.76,1052.69,1
+UKL10963,Nainital,Chamoli,Mid-Hill,High-Hill,485.0,Second Class,8,107.5,107.1,1.19,0,1,Good,4.1,3.8,5.5,1485.99,1
+UKL10964,Dehradun,Nainital,Plain/Lower Hill,Mid-Hill,400.4,Same Day,9,117.7,76.4,0.69,0,1,Moderate,4.23,1.2,2.95,1613.8,1
+UKL10965,Haridwar,Rudraprayag,Plain/Lower Hill,High-Hill,384.7,Standard,6,88.8,55.2,1.4,1,0,Good,3.99,4.5,6.6,1106.4,1
+UKL10966,Bageshwar,Pauri Garhwal,Mid-Hill,Mid-Hill,270.2,Standard,9,90.9,90.8,0.84,0,1,Good,4.91,4.5,6.32,920.22,1
+UKL10967,Uttarkashi,Pithoragarh,High-Hill,High-Hill,542.0,Second Class,13,57.8,95.7,1.22,0,0,Moderate,4.48,3.8,5.79,1723.2,1
+UKL10968,Tehri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,266.6,Second Class,5,75.5,93.9,0.44,0,0,Moderate,4.32,3.8,4.59,880.57,1
+UKL10969,Nainital,Pithoragarh,Mid-Hill,High-Hill,294.5,First Class,8,85.5,71.3,1.13,0,0,Good,4.2,2.8,4.64,1099.81,1
+UKL10970,Pithoragarh,Haridwar,High-Hill,Plain/Lower Hill,258.0,First Class,7,111.2,37.7,1.42,0,0,Moderate,3.76,2.8,4.91,1040.89,1
+UKL10971,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,321.9,Standard,8,75.9,49.6,0.98,0,0,Moderate,3.32,4.5,5.8,1087.5,1
+UKL10972,Tehri Garhwal,Dehradun,Mid-Hill,Plain/Lower Hill,374.2,Second Class,12,101.4,71.1,1.27,0,0,Poor,5.0,3.8,6.25,1362.1,1
+UKL10973,Dehradun,Tehri Garhwal,Plain/Lower Hill,Mid-Hill,237.0,Second Class,7,92.1,46.8,1.39,0,0,Moderate,4.16,3.8,5.81,936.59,1
+UKL10974,Bageshwar,Uttarkashi,Mid-Hill,High-Hill,216.2,Standard,5,58.8,85.7,1.6,0,1,Good,4.23,4.5,6.81,805.75,1
+UKL10975,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,267.7,Standard,6,90.2,108.9,0.92,0,0,Good,4.97,4.5,6.21,805.34,1
+UKL10976,Chamoli,Pithoragarh,High-Hill,High-Hill,311.2,Same Day,10,60.3,69.1,1.34,0,0,Moderate,4.69,1.2,2.7,1473.18,1
+UKL10977,Nainital,Rudraprayag,Mid-Hill,High-Hill,375.9,Standard,6,82.1,52.8,1.46,0,1,Good,4.26,4.5,6.11,1021.52,1
+UKL10978,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,269.3,Standard,7,85.5,65.4,0.99,0,0,Good,4.61,4.5,6.1,879.82,1
+UKL10979,Chamoli,Pithoragarh,High-Hill,High-Hill,498.0,Second Class,9,75.1,55.6,1.69,0,0,Moderate,4.08,3.8,6.78,1477.0,1
+UKL10980,Rudraprayag,Champawat,High-Hill,Mid-Hill,278.4,Standard,6,58.1,45.6,0.85,0,0,Moderate,3.77,4.5,5.51,798.3,1
+UKL10981,Champawat,Dehradun,Mid-Hill,Plain/Lower Hill,314.5,First Class,7,72.5,15.0,1.07,0,0,Poor,3.67,2.8,4.25,1123.06,1
+UKL10982,Haridwar,Nainital,Plain/Lower Hill,Mid-Hill,190.1,Standard,6,67.6,65.6,0.47,0,1,Moderate,3.99,4.5,5.23,782.43,1
+UKL10983,Tehri Garhwal,Nainital,Mid-Hill,Mid-Hill,361.1,First Class,12,70.7,57.7,0.89,0,0,Poor,4.52,2.8,5.62,1434.69,1
+UKL10984,Almora,Uttarkashi,Mid-Hill,High-Hill,542.4,Standard,9,81.6,91.5,1.4,0,1,Moderate,3.85,4.5,6.3,1512.23,1
+UKL10985,Haridwar,Uttarkashi,Plain/Lower Hill,High-Hill,349.4,Standard,10,109.1,70.2,1.79,0,0,Moderate,3.58,4.5,6.62,1197.71,1
+UKL10986,Almora,Dehradun,Mid-Hill,Plain/Lower Hill,132.5,Standard,8,76.7,78.0,0.45,0,0,Good,4.12,4.5,5.08,541.34,1
+UKL10987,Udham Singh Nagar,Champawat,Plain/Lower Hill,Mid-Hill,262.4,First Class,9,95.6,53.9,1.31,1,0,Good,3.86,2.8,4.9,1085.93,1
+UKL10988,Udham Singh Nagar,Pauri Garhwal,Plain/Lower Hill,Mid-Hill,310.7,Second Class,9,77.3,51.8,0.94,0,0,Moderate,3.35,3.8,5.1,1082.21,1
+UKL10989,Bageshwar,Nainital,Mid-Hill,Mid-Hill,310.5,First Class,9,78.3,69.1,0.63,0,0,Moderate,4.81,2.8,4.07,1158.63,1
+UKL10990,Uttarkashi,Tehri Garhwal,High-Hill,Mid-Hill,211.3,Standard,6,112.8,93.4,1.62,0,0,Moderate,4.3,4.5,5.71,737.87,1
+UKL10991,Champawat,Chamoli,Mid-Hill,High-Hill,260.6,Standard,9,35.2,77.4,1.1,1,0,Poor,4.115,4.5,6.99,1097.39,1
+UKL10992,Dehradun,Bageshwar,Plain/Lower Hill,Mid-Hill,230.0,Standard,7,44.4,46.7,1.46,0,0,Good,3.31,4.5,6.1,836.57,1
+UKL10993,Haridwar,Almora,Plain/Lower Hill,Mid-Hill,139.9,Second Class,10,59.2,52.4,1.19,0,0,Moderate,4.63,3.8,4.88,810.77,1
+UKL10994,Pauri Garhwal,Pithoragarh,Mid-Hill,High-Hill,338.8,Standard,5,43.3,73.8,1.29,0,0,Poor,4.13,4.5,7.02,994.61,1
+UKL10995,Tehri Garhwal,Almora,Mid-Hill,Mid-Hill,370.3,Standard,11,106.1,38.0,1.85,0,1,Moderate,4.03,4.5,5.81,1240.83,1
+UKL10996,Almora,Pauri Garhwal,Mid-Hill,Mid-Hill,244.7,Second Class,8,121.4,87.6,0.7,0,0,Good,4.3,3.8,4.98,919.77,1
+UKL10997,Udham Singh Nagar,Bageshwar,Plain/Lower Hill,Mid-Hill,298.0,Standard,6,64.0,63.1,1.18,0,1,Moderate,4.14,4.5,5.77,937.67,1
+UKL10998,Rudraprayag,Bageshwar,High-Hill,Mid-Hill,303.5,Standard,12,77.9,80.1,1.0,0,1,Moderate,4.01,4.5,6.91,1110.84,1
+UKL10999,Pauri Garhwal,Udham Singh Nagar,Mid-Hill,Plain/Lower Hill,181.1,Standard,13,104.8,64.9,0.91,0,1,Good,3.78,4.5,6.22,844.18,1
+UKL11000,Uttarkashi,Champawat,High-Hill,Mid-Hill,320.0,Standard,8,77.8,45.6,0.97,0,0,Moderate,3.73,4.5,7.28,1063.29,1
